@@ -1,0 +1,1201 @@
+User_ID,Movie_ID,Movie_Title,Genre,Release_Year,Rating,Number_of_Ratings,Runtime_Minutes,Language,Age_Group
+157,1052,Beyond the Stars,Horror,2013,8.0,50813,101,Korean,13-17
+47,1093,Beyond the Stars,Horror,2015,6.5,20490,113,Hindi,13-17
+173,1015,The Lost Kingdom,Sci-Fi,2022,4.7,75503,128,English,35-44
+130,1072,The Silent House,Sci-Fi,2024,7.9,58566,80,Hindi,45+
+95,1061,The Silent House,Comedy,2019,7.6,4081,152,Spanish,25-34
+115,1021,Digital Age,Crime,2019,6.4,9593,163,Japanese,35-44
+243,1083,Dream Makers,,2023,7.7,71318,132,Spanish,13-17
+292,1087,Beyond the Stars,Romance,2013,5.5,71418,162,English,25-34
+282,1075,Future World,Drama,2024,8.2,95435,179,Korean,18-24
+299,1075,Ocean Quest,Comedy,2023,6.7,17084,119,French,18-24
+283,1088,City Lights,Action,2018,,22860,124,Spanish,35-44
+69,1100,Broken Roads,Thriller,2014,6.4,91629,147,English,25-34
+148,1024,Shadow Hunter,Comedy,2017,6.8,1624,88,French,45+
+11,1003,City Lights,Comedy,2018,7.1,49502,101,Korean,25-34
+254,1022,Final Verdict,Horror,2019,7.2,91756,97,Japanese,35-44
+38,1053,Dream Makers,Animation,2014,6.6,65714,155,Spanish,45+
+134,1002,Parallel Lives,Crime,2015,7.3,35991,122,Japanese,45+
+200,1088,Campus Days,Animation,2010,7.1,91109,118,English,18-24
+23,1030,Ocean Quest,Romance,2020,6.4,39932,152,Japanese,25-34
+218,1038,Digital Age,Action,2025,6.2,45936,85,Japanese,45+
+141,1002,The Silent House,Horror,2021,7.8,74053,162,English,35-44
+104,1064,Ocean Quest,Action,2024,7.7,13462,127,English,18-24
+210,1060,The Lost Kingdom,Romance,2016,7.2,66845,86,Spanish,45+
+111,1021,Digital Age,Animation,2013,8.1,38021,159,Japanese,25-34
+104,1033,Secret Agent,Comedy,2020,4.9,70534,148,French,18-24
+171,1076,Secret Agent,Sci-Fi,2011,6.5,18662,95,English,25-34
+133,1058,Future World,Sci-Fi,2014,5.8,64610,80,Korean,25-34
+293,1022,Wild Frontier,Adventure,2021,9.6,76507,116,Japanese,25-34
+127,1089,The Lost Kingdom,Thriller,2012,7.9,7710,162,English,18-24
+106,1049,Campus Days,Crime,2015,7.0,93018,116,French,45+
+92,1091,Hidden Truth,Romance,2017,8.0,15891,160,Spanish,13-17
+287,1059,Midnight Chase,Thriller,2016,8.3,58147,143,Japanese,45+
+51,1042,Campus Days,Crime,2025,8.3,68006,169,English,18-24
+29,1092,Future World,Thriller,2012,8.1,19765,165,English,13-17
+296,1060,The Silent House,Animation,2017,6.8,70346,141,Korean,13-17
+297,1080,Parallel Lives,Crime,2011,6.5,65964,151,Korean,13-17
+214,1015,Digital Age,Animation,2019,6.0,46551,140,Japanese,35-44
+267,1062,Broken Roads,Comedy,2018,7.7,86248,112,English,18-24
+257,1062,Ocean Quest,Horror,2013,6.9,45990,145,Japanese,35-44
+101,1047,The Lost Kingdom,Animation,2010,6.6,6894,109,English,13-17
+110,1062,Ocean Quest,Sci-Fi,2017,6.6,32988,99,Korean,35-44
+182,1051,The Lost Kingdom,Thriller,2016,8.7,6849,139,French,35-44
+1,1055,Midnight Chase,Adventure,2020,8.1,46631,161,Hindi,18-24
+55,1064,Future World,Drama,2022,9.1,20708,153,Hindi,25-34
+149,1003,Final Verdict,Crime,2025,7.7,81086,103,English,35-44
+137,1051,Final Verdict,Romance,2014,7.2,69311,83,Korean,35-44
+202,1007,Broken Roads,Adventure,2019,7.1,84096,116,Spanish,13-17
+117,1021,Digital Age,,2022,6.0,56117,83,Spanish,13-17
+154,1073,City Lights,Animation,2014,5.7,57776,156,Hindi,13-17
+291,1039,Parallel Lives,Horror,2016,7.7,11660,168,French,45+
+63,1018,Secret Agent,Comedy,2014,6.1,54501,156,Hindi,35-44
+244,1004,Digital Age,Drama,2017,7.3,50568,97,English,13-17
+25,1089,Parallel Lives,Action,2020,8.3,32563,167,French,18-24
+90,1060,Wild Frontier,Adventure,2022,6.4,31763,145,Spanish,45+
+75,1014,Future World,Horror,2015,9.3,68806,127,Korean,25-34
+294,1009,Broken Roads,Action,2022,6.0,58873,112,Korean,35-44
+210,1090,Final Verdict,Drama,2014,8.2,33223,137,English,35-44
+17,1053,Love in Winter,Romance,2018,7.6,94446,162,Hindi,18-24
+128,1002,The Last Mission,Romance,2020,8.4,9818,152,English,25-34
+251,1084,Hidden Truth,Thriller,2025,5.9,62737,107,Korean,25-34
+179,1092,Wild Frontier,Drama,2011,9.6,128,114,Spanish,45+
+182,1060,Midnight Chase,Drama,2010,6.9,62470,89,Korean,35-44
+152,1071,Future World,Action,2017,7.8,47699,144,French,13-17
+25,1044,Parallel Lives,Horror,2021,8.7,17497,121,Japanese,18-24
+180,1008,Love in Winter,Crime,2012,6.4,45506,164,Korean,18-24
+198,1047,Parallel Lives,Action,2023,8.0,47757,88,Korean,18-24
+161,1035,Ocean Quest,Comedy,2020,6.3,67660,139,Japanese,18-24
+177,1078,Dream Makers,Romance,2021,8.6,13603,94,French,13-17
+285,1081,Shadow Hunter,Romance,2021,6.3,55043,178,Hindi,13-17
+63,1036,Ocean Quest,Thriller,2021,7.1,75939,136,Korean,45+
+150,1050,The Last Mission,Comedy,2016,7.4,82774,148,English,35-44
+154,1004,Future World,Romance,2019,8.0,25445,101,Korean,13-17
+156,1002,Love in Winter,Action,2022,9.3,50490,143,English,45+
+49,1006,Hidden Truth,Comedy,2020,6.6,95141,120,French,25-34
+84,1054,The Last Mission,Action,2017,8.4,59657,166,Korean,35-44
+177,1004,Beyond the Stars,Crime,2024,9.3,65154,150,French,13-17
+148,1054,Ocean Quest,Crime,2025,7.3,2006,135,French,25-34
+118,1093,Hidden Truth,Romance,2022,6.5,40267,102,Hindi,45+
+63,1063,Dream Makers,Romance,2022,5.2,8061,104,Korean,13-17
+189,1018,City Lights,Horror,2015,9.2,26240,170,English,13-17
+49,1090,Final Verdict,Crime,2021,6.8,58801,85,English,25-34
+257,1044,Dream Makers,Adventure,2019,6.0,77667,113,Korean,13-17
+224,1034,The Lost Kingdom,Adventure,2023,5.6,80764,142,Japanese,18-24
+141,1074,Midnight Chase,Thriller,2018,6.0,81299,88,Hindi,13-17
+215,1062,City Lights,Crime,2016,8.1,99864,139,Hindi,35-44
+211,1100,The Silent House,Action,2024,8.3,81318,128,Hindi,25-34
+32,1014,Shadow Hunter,Action,2019,7.8,80829,176,English,35-44
+158,1095,Broken Roads,Sci-Fi,2014,7.2,28661,130,French,45+
+285,1048,The Silent House,Comedy,2017,5.7,50668,139,Japanese,35-44
+286,1015,Secret Agent,Animation,2024,6.3,73402,149,Hindi,18-24
+144,1072,Beyond the Stars,Adventure,2011,5.9,95480,116,English,18-24
+19,1078,Dream Makers,Romance,2016,7.7,95068,110,English,35-44
+18,1087,Future World,Thriller,2024,5.9,29604,177,French,45+
+257,1062,Campus Days,Animation,2013,6.3,37246,120,Korean,13-17
+78,1040,The Lost Kingdom,Drama,2018,6.9,40397,141,Korean,18-24
+175,1085,The Lost Kingdom,Thriller,2021,5.3,86494,172,Hindi,35-44
+194,1080,City Lights,Drama,2010,7.2,68707,137,Hindi,35-44
+113,1082,Secret Agent,Crime,2016,7.0,17039,93,Japanese,35-44
+114,1053,Final Verdict,Drama,2015,8.4,90567,115,French,13-17
+222,1024,Shadow Hunter,Drama,2017,6.2,50815,115,Hindi,25-34
+166,1026,Wild Frontier,Horror,2014,5.7,44560,158,French,45+
+132,1089,Code Breaker,Horror,2024,6.7,66676,87,,25-34
+264,1060,Wild Frontier,Horror,2010,5.9,68322,105,Hindi,45+
+55,1041,Love in Winter,Crime,2010,7.1,12766,115,English,45+
+131,1029,Beyond the Stars,Animation,2018,5.1,62219,127,Spanish,35-44
+288,1015,Parallel Lives,Thriller,2024,6.4,35421,164,French,18-24
+266,1045,Beyond the Stars,Thriller,2019,6.1,1879,107,Spanish,35-44
+162,1065,Secret Agent,Romance,2015,7.7,13286,147,Hindi,13-17
+87,1089,Dream Makers,Horror,2019,6.2,16559,141,English,45+
+55,1071,Hidden Truth,Crime,2014,5.2,86346,159,Hindi,18-24
+288,1009,Love in Winter,Romance,2024,6.9,87855,165,Spanish,45+
+178,1088,Code Breaker,Comedy,2010,7.5,5157,155,Hindi,45+
+8,1001,Ocean Quest,Romance,2015,6.8,60763,159,Japanese,35-44
+247,1008,Midnight Chase,Animation,2015,6.4,18833,130,Korean,18-24
+255,1088,Dream Makers,Adventure,2012,6.4,19257,121,Spanish,18-24
+54,1063,Code Breaker,Drama,2022,7.2,35130,180,Hindi,45+
+249,1011,The Lost Kingdom,Horror,2025,6.1,19713,108,English,18-24
+239,1081,Beyond the Stars,Adventure,2017,6.7,83128,161,Hindi,18-24
+229,1008,Broken Roads,Romance,2023,7.9,86382,89,English,35-44
+67,1035,Secret Agent,Crime,2024,5.7,5288,118,Korean,25-34
+51,1035,Campus Days,Drama,2010,7.1,29780,161,Hindi,13-17
+97,1033,Midnight Chase,Thriller,2010,5.1,60219,80,Korean,25-34
+92,1005,Beyond the Stars,Action,2015,7.4,74500,118,Spanish,18-24
+264,1041,The Lost Kingdom,Drama,2019,6.0,55818,100,English,45+
+291,1028,Hidden Truth,Animation,2022,8.2,36545,144,Japanese,13-17
+96,1007,Love in Winter,Animation,2010,5.5,5896,94,Spanish,13-17
+88,1073,Shadow Hunter,Romance,2015,7.6,47318,83,English,45+
+78,1072,Secret Agent,Comedy,2010,8.4,39231,139,Korean,13-17
+288,1012,Beyond the Stars,Animation,2025,6.0,8223,140,French,45+
+120,1034,City Lights,Animation,2023,6.2,8322,99,Hindi,13-17
+165,1033,Digital Age,Crime,2022,6.1,24174,89,Korean,25-34
+182,1048,Wild Frontier,Romance,2015,6.6,29925,166,English,13-17
+223,1023,Wild Frontier,Drama,2012,7.7,36939,113,English,35-44
+7,1062,Campus Days,Comedy,2023,6.5,68422,127,English,45+
+263,1088,The Lost Kingdom,Adventure,2023,5.9,56421,112,English,13-17
+161,1037,Wild Frontier,Action,2024,4.9,99274,177,Hindi,45+
+151,1099,Broken Roads,Horror,2017,8.9,26088,140,Spanish,35-44
+85,1044,Future World,Thriller,2022,8.9,35607,89,Japanese,13-17
+147,1086,Code Breaker,,2024,7.7,99344,133,French,13-17
+112,1091,Beyond the Stars,Romance,2015,6.2,98744,163,Hindi,35-44
+36,1035,Wild Frontier,Horror,2022,7.9,95351,144,English,35-44
+285,1065,Shadow Hunter,Thriller,2020,8.1,23906,156,Hindi,35-44
+188,1099,Broken Roads,Thriller,2022,6.8,37001,80,Korean,45+
+82,1047,Beyond the Stars,Adventure,2010,7.1,17143,84,Japanese,35-44
+2,1078,Campus Days,Adventure,2024,8.5,75861,159,English,45+
+197,1003,The Last Mission,Adventure,2014,5.3,9852,94,French,25-34
+11,1001,Digital Age,Sci-Fi,2017,8.2,69093,107,English,13-17
+234,1005,Secret Agent,Sci-Fi,2012,6.8,42716,174,Japanese,13-17
+195,1090,Campus Days,Thriller,2021,5.9,52227,102,French,18-24
+119,1014,Parallel Lives,Adventure,2015,6.0,74877,96,Japanese,25-34
+20,1027,Final Verdict,Crime,2014,6.1,553,177,French,35-44
+261,1009,Broken Roads,Animation,2015,5.8,75532,92,Spanish,35-44
+293,1079,The Last Mission,Horror,2019,9.0,87462,93,Spanish,25-34
+256,1015,Campus Days,Horror,2010,7.6,11076,90,Hindi,35-44
+222,1090,Code Breaker,Sci-Fi,2016,8.3,99222,107,Hindi,18-24
+226,1042,Beyond the Stars,Thriller,2018,7.7,70504,121,French,45+
+53,1077,Secret Agent,Romance,2011,7.2,82032,175,English,13-17
+280,1051,Shadow Hunter,Drama,2019,7.2,97270,178,Korean,25-34
+81,1063,Parallel Lives,Drama,2024,6.7,77807,140,Korean,13-17
+202,1096,Parallel Lives,Sci-Fi,2014,6.8,89747,143,English,45+
+158,1052,Code Breaker,Romance,2019,5.6,33788,110,English,25-34
+120,1096,Parallel Lives,Sci-Fi,2013,8.3,86940,160,Spanish,45+
+59,1004,The Lost Kingdom,Drama,2015,5.1,93889,152,Korean,35-44
+215,1094,Final Verdict,Romance,2015,5.9,96616,89,French,35-44
+128,1023,Midnight Chase,Adventure,2020,9.3,2117,87,Japanese,35-44
+224,1015,The Silent House,Thriller,2025,7.2,8057,100,Hindi,45+
+209,1043,Shadow Hunter,Horror,2011,7.3,4892,156,Japanese,45+
+115,1029,Love in Winter,Crime,2011,7.8,56082,138,Spanish,45+
+209,1036,Secret Agent,Comedy,2013,,13337,129,Korean,13-17
+14,1013,Dream Makers,Thriller,2010,5.6,51686,148,English,45+
+9,1032,Digital Age,Adventure,2018,6.6,81887,149,Korean,35-44
+40,1071,Hidden Truth,Drama,2023,6.1,19352,109,French,18-24
+237,1059,Broken Roads,Adventure,2023,7.0,10807,174,Spanish,45+
+281,1086,Final Verdict,Sci-Fi,2022,7.6,34306,96,English,18-24
+201,1028,Campus Days,Romance,2016,8.6,94376,154,Japanese,35-44
+246,1066,Broken Roads,Horror,2025,8.0,3643,99,French,45+
+278,1042,Code Breaker,Animation,2021,6.0,44235,127,Japanese,13-17
+235,1045,Campus Days,Sci-Fi,2016,6.7,35131,152,Hindi,13-17
+4,1062,Broken Roads,Thriller,2024,6.4,43029,81,Spanish,18-24
+154,1057,Wild Frontier,Sci-Fi,2012,6.0,65847,116,French,13-17
+29,1006,Wild Frontier,Thriller,2024,5.7,57951,80,French,13-17
+109,1028,Dream Makers,Animation,2020,8.9,55411,83,Japanese,13-17
+98,1028,Hidden Truth,Action,2024,7.1,65967,179,English,35-44
+215,1044,The Lost Kingdom,Horror,2021,6.9,88880,133,Hindi,13-17
+293,1084,Wild Frontier,Crime,2012,7.6,57296,104,Japanese,25-34
+75,1030,Love in Winter,Crime,2010,7.7,73805,82,French,45+
+146,1062,Love in Winter,Comedy,2012,8.3,57994,88,Spanish,13-17
+128,1075,Secret Agent,Adventure,2012,,87740,165,French,13-17
+42,1092,Campus Days,Action,2013,7.5,14691,166,Korean,13-17
+41,1089,Dream Makers,Crime,2013,6.1,97347,155,Spanish,25-34
+34,1062,Love in Winter,Sci-Fi,2012,6.9,48993,153,Spanish,13-17
+17,1097,Beyond the Stars,Adventure,2025,7.2,827,113,French,13-17
+165,1001,Code Breaker,Action,2019,7.3,21459,122,English,45+
+153,1027,Beyond the Stars,Romance,2025,7.2,43922,153,Spanish,25-34
+76,1062,Midnight Chase,Romance,2021,8.0,88634,173,Korean,25-34
+87,1077,Midnight Chase,,2017,6.4,11029,101,Japanese,13-17
+117,1003,Digital Age,Thriller,2017,7.3,60191,149,English,25-34
+27,1070,Hidden Truth,Thriller,2022,6.3,80478,81,English,18-24
+287,1072,The Last Mission,Sci-Fi,2022,10.0,23619,173,English,25-34
+134,1027,Beyond the Stars,Action,2010,6.1,17493,145,Spanish,25-34
+219,1009,Code Breaker,Action,2016,6.3,34418,111,English,25-34
+168,1062,The Silent House,Adventure,2020,8.1,74631,95,French,35-44
+98,1037,The Lost Kingdom,Drama,2011,6.6,94292,155,English,35-44
+268,1097,Future World,Romance,2010,8.1,48034,80,Korean,35-44
+237,1051,Secret Agent,Action,2012,7.3,81203,151,Hindi,25-34
+173,1044,Beyond the Stars,Adventure,2025,6.7,28940,127,Korean,18-24
+190,1024,Future World,Animation,2013,6.3,89467,129,Spanish,25-34
+122,1079,Dream Makers,Comedy,2022,6.2,13365,92,,13-17
+46,1059,Midnight Chase,Animation,2015,6.7,5524,94,English,18-24
+64,1032,Hidden Truth,Horror,2019,6.9,20725,132,French,35-44
+130,1096,The Lost Kingdom,Sci-Fi,2025,6.2,79722,123,Japanese,45+
+193,1088,Dream Makers,Action,2023,7.0,29287,87,English,18-24
+181,1052,Shadow Hunter,Horror,2014,5.9,36029,153,Korean,35-44
+292,1062,Shadow Hunter,Crime,2025,7.9,61992,125,Spanish,18-24
+282,1058,Dream Makers,Horror,2024,8.1,20639,148,Hindi,18-24
+29,1052,Broken Roads,Adventure,2024,6.3,56730,98,English,25-34
+149,1012,Code Breaker,Action,2023,6.3,90739,117,Hindi,13-17
+267,1039,Future World,Comedy,2013,7.3,93510,90,English,45+
+296,1002,The Silent House,Adventure,2017,8.5,9315,122,Spanish,35-44
+11,1003,Broken Roads,Adventure,2020,8.7,39485,99,Japanese,18-24
+164,1056,Beyond the Stars,Sci-Fi,2025,5.6,87680,99,Korean,45+
+113,1081,Final Verdict,Sci-Fi,2021,8.2,77562,100,Spanish,18-24
+187,1059,Secret Agent,Romance,2025,7.0,97137,161,Hindi,13-17
+295,1002,Digital Age,Romance,2023,7.1,95410,136,English,45+
+232,1002,Final Verdict,Thriller,2013,7.7,25108,129,Hindi,35-44
+227,1092,Beyond the Stars,Drama,2022,6.6,49028,153,Korean,18-24
+98,1054,Digital Age,Action,2019,8.3,83196,177,Spanish,13-17
+55,1087,The Last Mission,Action,2021,8.7,89976,105,Hindi,45+
+111,1096,Midnight Chase,Horror,2025,8.7,25076,109,Hindi,18-24
+152,1097,Code Breaker,Action,2022,5.1,27726,152,,18-24
+246,1001,Parallel Lives,Action,2011,6.8,98356,110,English,35-44
+69,1019,Digital Age,Drama,2024,5.0,59889,121,Hindi,13-17
+289,1002,Final Verdict,Crime,2012,6.3,4800,147,Korean,25-34
+250,1053,Secret Agent,Romance,2015,4.5,63745,140,English,18-24
+36,1044,Parallel Lives,Romance,2017,7.6,73496,140,Japanese,45+
+239,1090,Shadow Hunter,Comedy,2017,7.3,7626,149,English,35-44
+148,1032,Midnight Chase,Action,2024,6.6,39600,157,Japanese,35-44
+227,1070,Dream Makers,Drama,2020,6.2,68149,147,Spanish,18-24
+244,1032,Future World,Romance,2024,7.4,73466,169,Korean,18-24
+201,1068,The Lost Kingdom,Drama,2018,6.0,80417,96,English,18-24
+154,1055,Love in Winter,Animation,2016,5.9,59217,98,Japanese,25-34
+73,1075,Digital Age,Crime,2022,5.8,56196,130,Japanese,18-24
+201,1056,Love in Winter,Action,2011,6.9,8010,149,Spanish,13-17
+296,1017,Hidden Truth,Comedy,2017,6.5,81483,142,French,45+
+17,1038,Love in Winter,Horror,2016,6.7,71285,172,Korean,18-24
+129,1024,Campus Days,Romance,2017,7.7,50348,154,French,25-34
+217,1069,Wild Frontier,Animation,2021,8.2,74756,159,English,45+
+61,1098,Wild Frontier,Drama,2012,8.7,2051,109,Korean,35-44
+104,1070,Future World,,2016,7.2,65312,104,Spanish,18-24
+42,1086,The Silent House,Adventure,2019,7.5,75801,154,,45+
+25,1011,The Last Mission,Action,2022,7.3,79988,150,Korean,35-44
+39,1016,Digital Age,Action,2018,5.3,75382,105,Korean,25-34
+291,1097,Beyond the Stars,Animation,2025,6.7,94633,135,French,13-17
+131,1073,Dream Makers,Drama,2012,6.7,42054,101,English,18-24
+229,1059,Midnight Chase,Thriller,2023,6.5,89819,168,Spanish,13-17
+108,1070,The Last Mission,Action,2019,7.1,8904,98,Spanish,25-34
+172,1080,Campus Days,Thriller,2015,6.9,92805,110,English,45+
+102,1093,City Lights,Sci-Fi,2011,6.0,695,105,English,45+
+12,1003,Final Verdict,Animation,2011,6.9,29692,121,Japanese,25-34
+275,1020,The Silent House,Drama,2014,6.4,40743,120,Hindi,25-34
+101,1059,Midnight Chase,Drama,2014,4.2,62765,179,French,18-24
+44,1036,Campus Days,Crime,2022,5.6,20923,102,English,35-44
+17,1019,Campus Days,Adventure,2016,7.2,6072,126,English,13-17
+57,1090,City Lights,Romance,2021,8.3,15982,92,Hindi,13-17
+12,1067,Code Breaker,Romance,2011,4.4,66494,168,Hindi,45+
+80,1019,The Lost Kingdom,Horror,2020,6.1,71155,145,Korean,45+
+216,1020,Code Breaker,Comedy,2023,7.6,23869,145,Spanish,18-24
+264,1096,City Lights,Animation,2022,8.1,25120,95,French,25-34
+149,1071,The Last Mission,Sci-Fi,2016,6.6,42848,152,Korean,13-17
+81,1052,Dream Makers,Drama,2014,6.3,85474,107,English,18-24
+215,1033,Love in Winter,Adventure,2023,8.4,45012,156,Hindi,45+
+198,1040,City Lights,Thriller,2015,8.0,12979,114,Japanese,45+
+200,1039,Shadow Hunter,Animation,2017,8.0,33898,120,Spanish,13-17
+25,1082,City Lights,Horror,2019,6.6,89926,156,Korean,45+
+89,1001,Dream Makers,Animation,2022,8.3,46173,110,Japanese,45+
+268,1011,City Lights,Horror,2023,5.0,75891,164,Spanish,35-44
+143,1092,Shadow Hunter,Drama,2021,8.3,67083,111,Japanese,25-34
+59,1057,Shadow Hunter,Comedy,2013,7.0,43105,133,Hindi,45+
+26,1089,Wild Frontier,Horror,2022,7.2,94831,177,Korean,35-44
+47,1050,Midnight Chase,Drama,2016,6.1,2950,151,Korean,18-24
+288,1023,Future World,Drama,2015,5.1,28500,138,Spanish,45+
+266,1031,Parallel Lives,Comedy,2025,7.2,12053,120,Japanese,18-24
+16,1094,Ocean Quest,Romance,2019,7.7,23635,145,Hindi,45+
+199,1042,Code Breaker,Animation,2011,7.9,75636,175,English,13-17
+282,1099,Dream Makers,Action,2024,7.8,75139,133,Korean,35-44
+86,1007,Hidden Truth,Action,2017,7.5,81129,119,English,35-44
+250,1016,Wild Frontier,Thriller,2019,6.1,4155,107,Hindi,13-17
+270,1090,Campus Days,Thriller,2025,7.9,38270,116,Korean,25-34
+117,1060,Midnight Chase,Action,2018,6.0,98044,144,Korean,35-44
+7,1002,Secret Agent,Sci-Fi,2014,8.3,28351,153,Japanese,18-24
+137,1001,Beyond the Stars,Action,2019,7.0,4632,134,English,35-44
+176,1048,The Lost Kingdom,Thriller,2013,7.0,5024,83,Japanese,25-34
+215,1012,Secret Agent,Adventure,2015,8.1,48137,178,French,18-24
+82,1069,Parallel Lives,Thriller,2025,8.2,78182,89,English,18-24
+223,1037,Ocean Quest,Sci-Fi,2017,7.9,92215,126,English,13-17
+103,1032,Parallel Lives,Animation,2020,6.2,71721,154,French,45+
+273,1009,Secret Agent,Action,2024,7.9,78026,93,Hindi,13-17
+14,1099,The Lost Kingdom,Comedy,2012,6.2,78916,117,Hindi,45+
+159,1019,The Silent House,Adventure,2019,8.0,89754,91,Korean,13-17
+152,1048,Ocean Quest,Drama,2020,5.5,70500,124,Spanish,45+
+108,1080,Campus Days,Sci-Fi,2020,7.0,99625,96,Japanese,35-44
+188,1003,City Lights,Thriller,2010,6.2,92485,159,Spanish,18-24
+98,1020,Hidden Truth,Comedy,2025,8.1,93202,114,Korean,45+
+131,1024,Ocean Quest,Horror,2013,8.3,10802,145,Spanish,35-44
+293,1054,Future World,Romance,2024,7.3,15485,154,English,25-34
+171,1033,The Last Mission,Action,2013,7.3,9436,120,English,13-17
+183,1024,Dream Makers,Romance,2010,7.9,65521,146,French,25-34
+39,1075,Secret Agent,Sci-Fi,2018,8.3,31325,108,French,35-44
+15,1072,Hidden Truth,Horror,2012,7.1,36121,97,Korean,25-34
+4,1036,Code Breaker,Horror,2014,6.6,3882,99,Korean,25-34
+210,1038,Midnight Chase,Horror,2025,7.8,88977,93,Korean,35-44
+161,1084,Secret Agent,Drama,2015,5.1,89730,113,English,18-24
+16,1099,Digital Age,Sci-Fi,2017,8.1,49211,128,Spanish,45+
+108,1089,Final Verdict,Animation,2015,6.3,89502,133,Japanese,13-17
+227,1099,Wild Frontier,Romance,2012,6.8,84685,110,Korean,45+
+170,1025,Love in Winter,Animation,2015,8.1,42819,137,Korean,13-17
+34,1093,Wild Frontier,Comedy,2010,6.6,96628,121,English,45+
+251,1018,Final Verdict,Crime,2013,7.8,49137,137,Japanese,25-34
+247,1082,Future World,Adventure,2015,8.4,80203,161,English,18-24
+269,1066,Dream Makers,Adventure,2025,7.2,3613,109,Japanese,25-34
+141,1054,Ocean Quest,Animation,2016,7.4,13435,104,English,18-24
+274,1035,The Silent House,Crime,2020,7.0,44240,142,Spanish,35-44
+96,1080,Beyond the Stars,Crime,2022,7.2,80473,98,Korean,13-17
+227,1061,Love in Winter,Action,2020,5.9,77758,151,Hindi,13-17
+39,1041,Ocean Quest,Comedy,2019,6.8,34940,171,Hindi,35-44
+29,1100,The Silent House,Sci-Fi,2012,5.7,31107,87,Korean,45+
+245,1033,Parallel Lives,Crime,2018,6.1,57047,174,Korean,35-44
+236,1068,Parallel Lives,Thriller,2021,4.9,93320,82,Korean,35-44
+185,1033,Shadow Hunter,Adventure,2021,7.4,26493,146,Korean,18-24
+272,1014,The Lost Kingdom,Thriller,2016,9.0,57580,165,Japanese,35-44
+236,1021,Ocean Quest,Comedy,2023,6.6,88390,160,Spanish,13-17
+239,1048,Digital Age,Crime,2010,8.2,86435,179,Hindi,25-34
+266,1020,Dream Makers,Romance,2011,8.3,9207,96,French,18-24
+65,1008,Secret Agent,Adventure,2010,5.8,6093,93,Hindi,18-24
+177,1007,Code Breaker,Action,2020,6.0,96441,88,Hindi,45+
+3,1067,Future World,Action,2018,8.2,93750,141,English,25-34
+142,1017,City Lights,Horror,2018,7.0,52166,173,Korean,18-24
+158,1033,Midnight Chase,Drama,2016,5.7,43042,100,Korean,35-44
+146,1048,Shadow Hunter,Crime,2019,6.4,16238,155,Korean,18-24
+293,1076,Hidden Truth,Comedy,2012,7.6,44627,116,English,18-24
+153,1059,Broken Roads,Adventure,2022,6.2,9290,175,Spanish,18-24
+193,1086,Hidden Truth,Drama,2024,4.0,92359,90,Spanish,45+
+73,1022,Digital Age,Comedy,2014,6.7,78522,99,French,18-24
+140,1030,Final Verdict,Animation,2024,6.8,55798,114,Spanish,18-24
+187,1038,Ocean Quest,Crime,2013,,82415,132,Spanish,45+
+293,1051,Code Breaker,Sci-Fi,2025,8.5,93810,126,Korean,25-34
+61,1054,The Last Mission,Sci-Fi,2016,7.2,29186,154,Japanese,13-17
+198,1008,The Last Mission,Crime,2023,7.4,17422,131,Hindi,45+
+295,1027,Ocean Quest,Horror,2018,8.3,83669,87,Spanish,45+
+11,1027,Love in Winter,Horror,2021,7.1,85710,83,Spanish,18-24
+62,1098,Shadow Hunter,Sci-Fi,2011,9.5,3535,106,English,18-24
+226,1021,Final Verdict,Romance,2022,5.7,53431,123,French,13-17
+153,1030,Love in Winter,Adventure,2017,6.1,29042,119,Japanese,18-24
+199,1097,Beyond the Stars,Sci-Fi,2025,7.8,59735,126,English,35-44
+52,1028,Code Breaker,Romance,2024,8.5,29159,173,Korean,18-24
+260,1064,The Lost Kingdom,Drama,2018,6.9,57657,123,Hindi,18-24
+59,1097,Wild Frontier,Romance,2019,6.0,52489,127,French,35-44
+72,1069,The Silent House,Drama,2023,9.0,53114,170,English,13-17
+148,1061,Future World,Comedy,2019,6.2,32926,164,Spanish,35-44
+63,1048,Final Verdict,Thriller,2018,7.5,30397,131,Spanish,45+
+243,1019,The Lost Kingdom,Comedy,2023,8.5,43990,163,French,35-44
+107,1004,Shadow Hunter,Sci-Fi,2019,6.6,21422,147,Spanish,25-34
+226,1035,The Last Mission,Drama,2023,6.4,35839,90,English,45+
+218,1064,Broken Roads,Sci-Fi,2016,6.5,9819,156,,18-24
+241,1049,Broken Roads,Crime,2024,8.1,79653,152,Spanish,45+
+259,1017,City Lights,Adventure,2018,8.3,8414,83,Spanish,13-17
+262,1044,Beyond the Stars,Action,2018,7.1,93931,155,Korean,13-17
+5,1092,Code Breaker,Sci-Fi,2023,9.2,75264,152,Hindi,35-44
+261,1030,Love in Winter,Adventure,2012,7.1,77128,156,French,45+
+54,1093,Hidden Truth,Romance,2013,8.5,36213,127,English,18-24
+47,1046,The Last Mission,Comedy,2025,6.6,15457,105,French,13-17
+215,1006,Beyond the Stars,Romance,2011,9.7,98965,156,Korean,18-24
+177,1099,Secret Agent,Action,2019,8.8,20465,118,English,25-34
+9,1037,City Lights,Drama,2012,7.0,39129,171,Korean,13-17
+99,1024,Love in Winter,Crime,2020,8.7,1837,137,Korean,35-44
+20,1093,Hidden Truth,Adventure,2020,8.6,74732,98,Japanese,25-34
+241,1046,The Silent House,Crime,2014,8.8,85574,167,Spanish,45+
+61,1053,Secret Agent,Thriller,2014,4.4,78318,162,Japanese,18-24
+178,1095,Code Breaker,Sci-Fi,2015,7.9,27599,156,French,13-17
+62,1099,Digital Age,Drama,2022,7.7,46257,156,French,25-34
+145,1060,Code Breaker,Thriller,2016,7.6,56347,137,Spanish,25-34
+216,1097,Wild Frontier,Animation,2016,7.3,41134,107,Japanese,13-17
+3,1063,Future World,Sci-Fi,2010,7.4,394,145,French,45+
+160,1085,Final Verdict,Romance,2025,8.5,98172,89,,45+
+227,1032,City Lights,Comedy,2023,7.7,24696,165,Spanish,35-44
+269,1087,Parallel Lives,Adventure,2025,7.3,98285,156,English,45+
+120,1033,Future World,Action,2011,8.4,11534,137,Korean,35-44
+89,1067,Future World,Action,2021,7.6,58482,152,Korean,25-34
+68,1018,The Silent House,Romance,2018,7.7,38198,176,Japanese,13-17
+98,1025,City Lights,Horror,2019,9.2,4755,93,French,45+
+267,1095,Hidden Truth,Action,2011,6.6,83129,163,Japanese,35-44
+105,1054,Future World,Adventure,2015,5.4,46328,94,Japanese,25-34
+123,1058,Shadow Hunter,Romance,2020,7.2,3871,175,Hindi,45+
+29,1067,The Last Mission,Drama,2020,7.3,74199,112,Korean,18-24
+137,1046,Hidden Truth,Action,2025,7.9,56899,96,Spanish,25-34
+195,1024,Secret Agent,Crime,2010,7.2,62357,103,Japanese,45+
+226,1032,City Lights,Romance,2012,7.9,17658,109,Hindi,25-34
+170,1047,The Silent House,Adventure,2011,9.9,99568,141,Hindi,13-17
+9,1086,Wild Frontier,Crime,2012,8.0,58536,92,Korean,13-17
+40,1023,Parallel Lives,Sci-Fi,2014,8.2,92203,141,Korean,13-17
+25,1066,Digital Age,Sci-Fi,2020,7.0,32476,126,Korean,18-24
+261,1027,Final Verdict,Action,2019,5.6,87558,95,Spanish,13-17
+226,1002,Shadow Hunter,Crime,2025,4.6,78024,145,Hindi,18-24
+124,1090,Campus Days,Comedy,2015,6.5,29432,160,French,13-17
+38,1017,Love in Winter,Sci-Fi,2018,4.3,46837,175,Spanish,25-34
+251,1033,Future World,Comedy,2021,7.7,89131,122,English,45+
+176,1009,Final Verdict,Drama,2020,6.7,74070,87,Japanese,45+
+90,1043,Parallel Lives,Romance,2024,5.7,52052,82,Korean,13-17
+37,1048,Hidden Truth,Thriller,2024,7.2,21091,91,Hindi,45+
+176,1039,The Last Mission,Adventure,2025,6.3,27572,163,Japanese,13-17
+284,1093,Secret Agent,Romance,2019,7.6,60046,95,Spanish,13-17
+81,1042,Shadow Hunter,Adventure,2021,7.9,26949,157,English,35-44
+114,1026,City Lights,Crime,2021,6.3,1641,159,Spanish,35-44
+40,1099,City Lights,Drama,2022,6.8,2865,138,Spanish,35-44
+224,1050,Hidden Truth,Animation,2013,7.3,43174,128,French,18-24
+115,1025,Ocean Quest,Action,2016,5.6,29383,142,Japanese,35-44
+186,1024,Parallel Lives,Adventure,2015,7.3,869,141,French,13-17
+56,1013,Midnight Chase,Adventure,2011,5.5,17906,128,Spanish,25-34
+40,1060,Code Breaker,Crime,2019,7.7,90618,130,English,35-44
+40,1007,The Silent House,Comedy,2020,6.6,3072,112,Hindi,35-44
+237,1057,Secret Agent,Romance,2020,5.5,18356,109,Hindi,25-34
+289,1036,The Last Mission,Animation,2020,6.5,18753,138,Japanese,13-17
+262,1045,Ocean Quest,Horror,2024,6.5,86769,155,Korean,18-24
+216,1020,Hidden Truth,Action,2024,8.3,39439,94,Korean,35-44
+147,1065,Beyond the Stars,Thriller,2017,7.3,25857,161,Hindi,25-34
+168,1008,Parallel Lives,Horror,2016,6.0,42499,171,Spanish,13-17
+92,1016,Code Breaker,Romance,2024,8.9,44113,102,Spanish,45+
+59,1014,Parallel Lives,Action,2024,7.8,97705,157,French,18-24
+59,1076,Hidden Truth,Adventure,2016,6.7,14806,173,Japanese,25-34
+169,1087,The Lost Kingdom,Thriller,2023,5.4,38331,176,French,25-34
+269,1015,Secret Agent,Comedy,2024,6.6,28009,124,Korean,25-34
+45,1092,The Lost Kingdom,Animation,2017,6.9,76731,141,Hindi,35-44
+181,1098,Beyond the Stars,Comedy,2021,7.5,57672,158,Spanish,45+
+170,1066,Future World,Drama,2021,7.8,85979,150,Hindi,18-24
+191,1032,Campus Days,Crime,2022,8.0,63867,94,English,13-17
+155,1087,Midnight Chase,Action,2023,5.3,26569,125,Hindi,13-17
+188,1063,The Silent House,Comedy,2020,7.3,1413,143,English,45+
+7,1086,Hidden Truth,Horror,2010,6.9,7947,125,French,25-34
+133,1051,Broken Roads,Crime,2024,10.0,50322,135,French,25-34
+235,1025,Parallel Lives,Comedy,2022,7.2,74802,123,Korean,25-34
+45,1058,Digital Age,Sci-Fi,2010,6.4,10030,154,Hindi,25-34
+249,1063,Wild Frontier,Drama,2017,7.2,3385,108,Hindi,25-34
+31,1062,The Last Mission,Romance,2013,7.1,35963,174,English,45+
+23,1022,Code Breaker,Animation,2014,4.9,16804,141,French,35-44
+160,1058,City Lights,Drama,2017,7.5,18805,168,English,18-24
+158,1058,The Lost Kingdom,Crime,2014,6.8,655,131,French,25-34
+39,1086,Code Breaker,Sci-Fi,2019,7.1,21423,133,English,35-44
+82,1049,The Lost Kingdom,Action,2025,6.1,71068,167,French,13-17
+258,1052,Beyond the Stars,Horror,2013,5.9,67022,136,English,45+
+206,1042,Ocean Quest,Animation,2021,8.1,54015,162,French,35-44
+77,1070,Hidden Truth,Animation,2015,8.3,10719,145,Japanese,25-34
+12,1015,Wild Frontier,Drama,2022,7.6,72490,101,English,25-34
+295,1054,The Lost Kingdom,Crime,2024,5.1,59374,99,Hindi,25-34
+224,1060,Secret Agent,Action,2021,7.6,73273,112,Korean,35-44
+13,1097,Campus Days,Adventure,2014,5.1,21325,151,Japanese,25-34
+46,1008,Ocean Quest,Sci-Fi,2023,6.4,26839,104,Japanese,35-44
+155,1053,The Lost Kingdom,Adventure,2016,8.1,47808,125,English,25-34
+113,1060,Code Breaker,Horror,2025,7.8,53119,152,Korean,13-17
+233,1005,Shadow Hunter,Action,2023,7.6,76254,177,Hindi,13-17
+17,1068,Wild Frontier,Action,2019,8.5,7473,136,Japanese,18-24
+223,1006,The Lost Kingdom,Sci-Fi,2016,7.7,35381,166,Hindi,25-34
+188,1096,Wild Frontier,Thriller,2022,4.9,20287,84,French,25-34
+163,1094,Hidden Truth,Adventure,2013,6.7,67963,134,Korean,35-44
+74,1047,Dream Makers,Comedy,2021,7.1,98027,140,Spanish,35-44
+233,1099,Wild Frontier,Animation,2022,6.9,84185,168,French,25-34
+224,1055,The Silent House,Thriller,2014,6.4,39320,87,Korean,18-24
+60,1040,Secret Agent,Comedy,2022,6.0,7742,95,English,25-34
+222,1052,Broken Roads,Crime,2012,9.7,80071,127,English,35-44
+37,1016,Midnight Chase,Sci-Fi,2024,6.7,55656,140,Hindi,25-34
+278,1013,The Lost Kingdom,Crime,2013,9.7,33860,94,Japanese,35-44
+196,1030,The Silent House,Animation,2024,5.8,38292,144,Spanish,25-34
+242,1019,Wild Frontier,Romance,2023,7.8,4481,101,English,45+
+219,1017,Parallel Lives,Comedy,2013,7.4,96683,82,Korean,35-44
+192,1063,Secret Agent,Thriller,2012,6.1,19658,133,Japanese,18-24
+17,1019,The Lost Kingdom,Comedy,2022,6.6,30882,93,Japanese,45+
+12,1092,Code Breaker,Comedy,2019,7.1,4882,115,Korean,25-34
+193,1058,Beyond the Stars,Sci-Fi,2014,6.2,91517,161,Japanese,35-44
+22,1055,Ocean Quest,Crime,2025,6.8,54812,161,English,45+
+120,1090,Campus Days,Adventure,2014,4.5,95045,146,Korean,18-24
+210,1090,The Silent House,Romance,2020,7.9,19562,89,Korean,35-44
+270,1062,The Last Mission,Sci-Fi,2016,8.4,60130,128,Hindi,45+
+192,1023,Secret Agent,Horror,2013,7.6,68619,144,Spanish,45+
+175,1009,The Lost Kingdom,Sci-Fi,2022,9.6,56511,170,Hindi,45+
+285,1012,Final Verdict,Animation,2013,7.9,55306,136,Spanish,13-17
+204,1001,Hidden Truth,Romance,2018,8.4,97569,106,Korean,25-34
+164,1058,The Silent House,Action,2015,8.5,47050,154,Japanese,35-44
+251,1001,The Lost Kingdom,Horror,2024,4.1,2623,84,Spanish,35-44
+227,1034,The Silent House,Drama,2013,7.6,61026,150,Korean,35-44
+7,1096,Beyond the Stars,Sci-Fi,2011,5.6,9777,162,Korean,45+
+29,1048,Beyond the Stars,Comedy,2015,5.8,75928,136,Hindi,25-34
+33,1089,Ocean Quest,Adventure,2025,6.0,15189,172,Hindi,18-24
+134,1001,City Lights,Action,2025,6.8,4681,94,Japanese,35-44
+79,1016,The Silent House,Sci-Fi,2011,7.8,12007,178,French,25-34
+58,1061,The Lost Kingdom,Sci-Fi,2014,7.6,5709,180,English,25-34
+26,1064,The Silent House,Thriller,2015,7.1,51253,155,French,13-17
+226,1063,Shadow Hunter,Thriller,2013,7.9,50639,109,French,35-44
+285,1069,Campus Days,Action,2023,8.0,44243,99,Japanese,45+
+4,1022,Shadow Hunter,Crime,2022,7.6,23036,116,Spanish,25-34
+99,1093,Future World,Thriller,2012,5.2,50282,82,Japanese,25-34
+39,1067,Hidden Truth,Comedy,2016,6.3,99624,152,Japanese,18-24
+271,1076,Final Verdict,Horror,2011,7.1,95142,120,Korean,13-17
+285,1026,The Lost Kingdom,Drama,2022,7.9,13263,118,Korean,25-34
+157,1016,Digital Age,Romance,2020,5.6,59858,105,Korean,25-34
+75,1051,Love in Winter,Drama,2023,7.1,46157,81,English,45+
+288,1086,Shadow Hunter,Drama,2015,5.4,12637,102,Spanish,45+
+130,1057,Secret Agent,Romance,2022,8.2,22519,102,Spanish,18-24
+175,1029,Love in Winter,Thriller,2013,7.4,42678,164,Korean,18-24
+84,1078,Hidden Truth,Action,2015,5.6,75091,95,French,18-24
+22,1092,Future World,Romance,2013,5.6,74699,88,English,45+
+27,1069,The Last Mission,Animation,2013,7.5,934,92,French,45+
+195,1047,The Silent House,Crime,2024,8.6,32314,107,Hindi,13-17
+236,1094,The Silent House,Horror,2013,5.9,93034,106,Spanish,35-44
+92,1062,Beyond the Stars,Adventure,2018,8.0,2513,130,Spanish,35-44
+21,1069,Hidden Truth,Thriller,2016,6.5,9605,143,French,13-17
+84,1076,Campus Days,Crime,2012,8.0,2205,131,English,35-44
+262,1016,City Lights,Romance,2012,7.9,68204,160,Spanish,45+
+147,1090,The Last Mission,Animation,2015,7.3,58508,117,French,35-44
+257,1090,Ocean Quest,Adventure,2015,5.1,37779,179,Japanese,45+
+58,1048,Broken Roads,Horror,2013,7.8,99196,144,Japanese,13-17
+15,1085,Parallel Lives,Horror,2024,7.7,79831,97,English,18-24
+162,1039,Ocean Quest,Thriller,2024,7.6,65231,142,French,13-17
+163,1100,Future World,Romance,2018,7.3,64380,130,Japanese,35-44
+281,1033,Future World,Crime,2013,6.1,15862,88,English,45+
+280,1094,The Lost Kingdom,Action,2018,8.3,58803,92,Korean,35-44
+12,1023,Parallel Lives,Crime,2025,8.1,81534,119,English,35-44
+274,1010,Parallel Lives,Crime,2013,5.9,63179,134,Hindi,18-24
+271,1069,The Silent House,Horror,2011,8.5,21677,158,Korean,35-44
+208,1100,Wild Frontier,Action,2011,7.2,1314,122,French,18-24
+27,1034,Secret Agent,Action,2014,7.2,86439,123,Korean,45+
+72,1052,Ocean Quest,Thriller,2013,6.9,48214,147,Korean,45+
+60,1095,Wild Frontier,Adventure,2016,7.0,89334,112,French,18-24
+145,1010,Code Breaker,Sci-Fi,2023,8.6,63330,103,French,13-17
+93,1019,Secret Agent,Drama,2020,8.2,33080,115,Japanese,45+
+8,1058,Wild Frontier,Drama,2014,8.2,67294,89,Hindi,13-17
+79,1096,Beyond the Stars,Horror,2015,7.3,77906,179,French,45+
+27,1001,Midnight Chase,Sci-Fi,2019,8.1,37892,99,Spanish,45+
+174,1069,Beyond the Stars,Adventure,2013,6.2,45907,154,Spanish,25-34
+50,1004,Future World,Sci-Fi,2022,7.7,22401,91,Hindi,35-44
+199,1016,Broken Roads,Thriller,2021,6.9,5241,141,English,35-44
+181,1024,Hidden Truth,Crime,2011,4.8,13877,97,English,13-17
+24,1080,Future World,Horror,2022,5.4,38446,173,Spanish,35-44
+46,1002,City Lights,Action,2019,6.4,54803,180,French,13-17
+15,1092,City Lights,Horror,2018,7.6,95077,142,Hindi,45+
+153,1032,The Silent House,Drama,2019,6.4,47919,163,English,25-34
+222,1091,The Last Mission,Adventure,2024,6.4,28569,104,English,25-34
+206,1084,Ocean Quest,Sci-Fi,2016,7.9,3945,91,Korean,45+
+273,1024,Code Breaker,Adventure,2013,,23390,100,Spanish,18-24
+236,1012,Code Breaker,Thriller,2012,8.6,30799,104,French,18-24
+228,1050,Digital Age,Horror,2019,8.4,44352,90,Hindi,35-44
+9,1035,Campus Days,Romance,2023,7.1,98782,143,English,13-17
+166,1033,Future World,Horror,2024,,3393,152,Korean,25-34
+214,1033,Code Breaker,Action,2025,7.8,57189,129,Spanish,35-44
+117,1061,Ocean Quest,Horror,2012,6.8,16708,141,Spanish,45+
+72,1051,Wild Frontier,Animation,2018,8.0,66373,168,Hindi,25-34
+64,1043,Dream Makers,Thriller,2014,8.2,16719,178,English,13-17
+205,1012,The Last Mission,Comedy,2022,6.1,78106,175,Hindi,13-17
+209,1067,Broken Roads,Thriller,2024,7.3,88008,128,Hindi,18-24
+72,1065,Campus Days,Sci-Fi,2012,7.3,81753,93,Japanese,35-44
+277,1033,Hidden Truth,Comedy,2024,8.0,14879,80,Korean,45+
+274,1040,Ocean Quest,Sci-Fi,2014,6.6,51140,160,Spanish,25-34
+95,1074,The Lost Kingdom,Sci-Fi,2025,6.4,94930,104,Japanese,13-17
+166,1043,Hidden Truth,Action,2011,7.3,56425,138,French,25-34
+32,1044,Shadow Hunter,Action,2020,8.4,21730,151,Spanish,45+
+11,1029,Broken Roads,Crime,2013,5.8,12278,148,Spanish,25-34
+217,1013,Secret Agent,Drama,2019,6.0,20035,84,Korean,35-44
+289,1012,Campus Days,Crime,2011,6.5,47358,178,French,18-24
+102,1095,Broken Roads,Crime,2011,6.7,22884,98,English,25-34
+267,1046,Code Breaker,Drama,2021,5.2,63822,102,French,18-24
+214,1002,Campus Days,Romance,2017,8.7,23127,88,English,45+
+179,1035,The Lost Kingdom,Comedy,2010,7.0,96644,173,French,18-24
+88,1087,Campus Days,Adventure,2025,6.8,57953,129,Hindi,25-34
+41,1081,Ocean Quest,Crime,2025,8.9,67459,95,French,25-34
+76,1090,Final Verdict,Horror,2025,7.9,72488,112,Japanese,13-17
+46,1008,Secret Agent,Horror,2023,6.5,78708,81,Japanese,25-34
+160,1093,The Last Mission,Sci-Fi,2016,7.3,76769,93,Korean,18-24
+80,1026,Midnight Chase,Drama,2014,7.1,15211,80,English,13-17
+86,1074,Campus Days,Sci-Fi,2024,8.7,32412,169,Spanish,25-34
+92,1090,Dream Makers,,2020,,24261,137,Korean,25-34
+148,1034,Final Verdict,Animation,2017,5.5,67413,168,Japanese,45+
+161,1007,The Silent House,Adventure,2010,5.0,50474,95,Japanese,13-17
+202,1068,The Silent House,Action,2020,8.7,24114,158,English,45+
+242,1058,Love in Winter,Action,2016,6.2,80408,169,Japanese,45+
+2,1075,Campus Days,Drama,2014,7.8,46489,126,Japanese,45+
+225,1029,The Silent House,Drama,2013,7.2,18261,123,English,35-44
+289,1036,Campus Days,Crime,2016,6.6,7590,159,Japanese,45+
+233,1089,Wild Frontier,Animation,2019,6.8,24602,93,Spanish,18-24
+77,1021,Midnight Chase,Crime,2024,8.8,35857,172,Hindi,25-34
+116,1036,The Silent House,Action,2011,5.5,41211,103,Korean,35-44
+154,1010,Midnight Chase,Comedy,2021,6.7,98373,134,Spanish,45+
+103,1073,Broken Roads,Comedy,2024,8.1,83345,94,Spanish,25-34
+194,1024,Final Verdict,Drama,2010,5.7,58745,162,Hindi,13-17
+166,1064,The Lost Kingdom,Sci-Fi,2010,8.5,59155,151,Korean,13-17
+90,1099,Wild Frontier,Action,2020,8.1,9098,113,Spanish,25-34
+174,1049,Final Verdict,Comedy,2021,7.4,29006,81,Japanese,18-24
+122,1099,Broken Roads,Action,2025,6.5,70292,106,Hindi,25-34
+143,1036,The Lost Kingdom,Thriller,2010,5.5,50577,153,Korean,25-34
+106,1082,Broken Roads,Horror,2024,7.9,37001,178,French,35-44
+123,1096,The Last Mission,Animation,2021,10.0,91371,166,English,13-17
+9,1024,Ocean Quest,Crime,2014,7.3,52121,151,Japanese,13-17
+262,1023,Future World,Action,2019,,29192,171,Hindi,45+
+73,1062,Wild Frontier,Horror,2016,7.6,1342,102,English,25-34
+223,1096,Future World,Thriller,2011,8.0,1931,147,French,25-34
+41,1037,Ocean Quest,Crime,2019,6.1,50821,93,Spanish,18-24
+204,1012,Ocean Quest,Action,2017,6.4,28611,142,Spanish,13-17
+264,1055,Broken Roads,Drama,2013,6.3,72882,172,Korean,18-24
+178,1013,Future World,Horror,2021,6.5,97103,144,,35-44
+84,1023,Shadow Hunter,Crime,2012,6.9,18402,147,Hindi,45+
+111,1089,The Last Mission,Action,2019,6.2,55668,142,Korean,18-24
+251,1099,Broken Roads,Horror,2020,5.7,3332,175,English,13-17
+7,1030,Midnight Chase,Thriller,2017,7.3,51607,176,Spanish,35-44
+84,1017,Love in Winter,Action,2011,6.9,76608,169,Spanish,25-34
+208,1062,Ocean Quest,Action,2020,6.6,10783,160,Hindi,35-44
+22,1084,The Lost Kingdom,Action,2020,7.2,23764,166,Hindi,18-24
+3,1089,Broken Roads,Adventure,2022,5.4,33272,143,Korean,13-17
+127,1086,Parallel Lives,Drama,2012,7.4,83741,111,French,18-24
+297,1013,Campus Days,Thriller,2021,6.6,64440,158,English,25-34
+188,1059,Parallel Lives,Crime,2012,7.4,87336,92,Japanese,25-34
+14,1019,Secret Agent,Adventure,2019,7.5,11117,145,French,13-17
+12,1049,Digital Age,Sci-Fi,2020,8.3,36713,98,French,45+
+87,1100,Digital Age,Adventure,2010,7.2,86230,103,Hindi,35-44
+12,1012,City Lights,Animation,2015,8.3,77020,167,Hindi,35-44
+25,1061,Beyond the Stars,Animation,2011,6.7,30448,90,Hindi,25-34
+243,1019,The Last Mission,Action,2010,6.8,16548,138,French,18-24
+122,1076,Beyond the Stars,Adventure,2025,7.0,9591,165,English,18-24
+147,1009,Digital Age,Sci-Fi,2011,8.0,78748,94,Hindi,45+
+55,1071,Love in Winter,Adventure,2021,7.8,96657,89,Spanish,18-24
+238,1028,Wild Frontier,Drama,2015,7.2,58859,120,English,35-44
+173,1078,Parallel Lives,Drama,2023,5.7,44653,106,Spanish,18-24
+221,1095,Ocean Quest,Sci-Fi,2013,7.8,1068,139,English,45+
+119,1052,Secret Agent,Adventure,2015,6.2,468,152,Hindi,35-44
+183,1083,Campus Days,Horror,2021,6.1,74060,131,Japanese,18-24
+288,1016,The Last Mission,Drama,2018,5.8,35110,107,Korean,35-44
+300,1069,Future World,Drama,2025,7.0,54254,144,Hindi,25-34
+82,1099,Wild Frontier,Comedy,2022,8.4,35951,96,French,25-34
+211,1012,Parallel Lives,Adventure,2019,6.0,25596,174,Japanese,25-34
+150,1025,The Silent House,Drama,2021,8.9,31036,123,French,18-24
+37,1052,Midnight Chase,Thriller,2019,8.1,78958,89,English,45+
+59,1085,City Lights,Adventure,2017,5.5,67105,142,French,35-44
+131,1100,The Silent House,Animation,2010,6.7,37593,180,Japanese,13-17
+202,1053,Dream Makers,Comedy,2022,6.0,69895,172,Japanese,25-34
+243,1023,City Lights,Drama,2017,7.8,36490,161,Hindi,25-34
+35,1016,Wild Frontier,Comedy,2018,6.0,10392,126,Spanish,13-17
+93,1057,Final Verdict,Animation,2015,5.3,92477,117,Hindi,13-17
+207,1039,Broken Roads,Sci-Fi,2019,6.7,28465,149,English,18-24
+213,1053,Dream Makers,Sci-Fi,2024,8.4,17307,155,French,35-44
+159,1042,The Lost Kingdom,Adventure,2014,6.9,23012,132,Spanish,25-34
+24,1058,Digital Age,Animation,2015,7.5,80871,157,Korean,45+
+293,1039,Wild Frontier,Romance,2025,7.6,56672,123,Japanese,18-24
+4,1014,The Silent House,Romance,2022,5.4,99183,153,Spanish,18-24
+220,1095,Midnight Chase,Adventure,2015,6.1,19376,133,Spanish,45+
+20,1005,Hidden Truth,Action,2018,7.1,97559,99,Hindi,45+
+152,1035,Secret Agent,Comedy,2013,6.5,5634,158,,45+
+50,1087,Code Breaker,Comedy,2011,9.0,92105,110,Japanese,13-17
+177,1093,City Lights,Sci-Fi,2020,5.7,35770,86,English,25-34
+96,1075,Code Breaker,Romance,2020,6.1,62247,137,English,13-17
+105,1018,Hidden Truth,Crime,2018,7.4,98199,89,Spanish,25-34
+250,1076,Shadow Hunter,Drama,2025,6.4,36586,89,Spanish,13-17
+117,1009,Ocean Quest,Drama,2011,3.9,65657,118,French,35-44
+228,1074,City Lights,Drama,2025,9.2,34368,107,Korean,25-34
+66,1058,Campus Days,Sci-Fi,2019,5.9,81435,109,Japanese,18-24
+262,1017,The Silent House,Animation,2018,7.7,26436,116,Spanish,25-34
+295,1007,Future World,Horror,2011,5.7,3741,146,French,25-34
+243,1046,Hidden Truth,Romance,2021,6.2,87232,122,Korean,25-34
+186,1013,Final Verdict,Romance,2017,5.3,33059,158,Japanese,35-44
+246,1040,The Last Mission,Crime,2018,6.3,13406,164,English,13-17
+125,1042,Broken Roads,Comedy,2021,6.4,46282,131,French,18-24
+268,1009,Parallel Lives,Action,2019,7.0,74223,180,Korean,13-17
+131,1050,Love in Winter,Adventure,2018,6.7,56426,135,French,13-17
+237,1027,Campus Days,Comedy,2019,5.5,96995,155,Spanish,45+
+18,1066,Code Breaker,Animation,2025,6.5,21598,147,Hindi,35-44
+40,1005,Final Verdict,Adventure,2018,8.7,70298,88,English,45+
+21,1029,Digital Age,Romance,2011,8.6,27297,171,Spanish,35-44
+225,1037,Beyond the Stars,Animation,2025,7.6,20819,102,,13-17
+282,1038,Hidden Truth,Adventure,2013,7.8,90301,142,Korean,13-17
+8,1083,Broken Roads,Crime,2016,9.4,25132,140,French,35-44
+100,1008,The Silent House,Crime,2021,7.7,59724,119,English,13-17
+240,1065,Code Breaker,Thriller,2011,7.8,78277,123,Spanish,13-17
+87,1086,Future World,Horror,2010,5.4,42064,165,Korean,18-24
+298,1017,City Lights,Crime,2012,5.9,30128,103,English,45+
+14,1071,Hidden Truth,Romance,2021,7.1,54746,130,French,45+
+2,1089,Hidden Truth,Action,2013,6.2,81287,137,Spanish,45+
+293,1045,Future World,Drama,2017,6.0,8636,169,Japanese,25-34
+41,1004,Parallel Lives,Thriller,2015,6.1,56847,173,Spanish,18-24
+111,1036,The Silent House,Drama,2020,5.5,45812,112,Spanish,45+
+14,1070,Ocean Quest,Horror,2011,6.2,6373,95,English,45+
+231,1031,Final Verdict,Adventure,2024,7.5,71920,101,English,18-24
+84,1019,Shadow Hunter,Sci-Fi,2018,9.1,91328,136,English,13-17
+130,1061,Beyond the Stars,Crime,2023,8.0,74453,141,English,45+
+231,1054,The Last Mission,Action,2011,7.8,94591,161,Korean,13-17
+145,1039,Midnight Chase,Horror,2022,5.3,92191,150,Hindi,45+
+28,1091,City Lights,Drama,2024,7.2,86014,169,Korean,35-44
+66,1074,Love in Winter,Thriller,2021,7.0,50930,151,Spanish,25-34
+163,1090,Midnight Chase,Crime,2014,7.4,17227,149,Korean,45+
+229,1019,Beyond the Stars,Romance,2021,6.7,83588,109,French,35-44
+261,1039,Love in Winter,Crime,2013,8.9,11639,102,Japanese,18-24
+164,1067,The Last Mission,Thriller,2022,7.2,46861,111,English,35-44
+287,1045,The Last Mission,Thriller,2016,7.3,46319,165,French,18-24
+10,1013,Parallel Lives,Sci-Fi,2017,4.9,14792,136,Japanese,45+
+195,1092,Secret Agent,Crime,2014,7.0,83756,88,French,18-24
+118,1058,Wild Frontier,Crime,2019,8.4,13434,110,Spanish,35-44
+270,1020,Dream Makers,Sci-Fi,2023,7.7,28715,150,English,25-34
+80,1092,Digital Age,Animation,2023,4.7,8003,88,French,13-17
+93,1072,Hidden Truth,Animation,2014,6.6,28627,92,Spanish,13-17
+266,1061,Final Verdict,Adventure,2011,9.0,15729,137,English,25-34
+257,1039,Parallel Lives,Animation,2017,6.9,58108,82,Hindi,13-17
+133,1001,Final Verdict,Comedy,2023,7.5,83376,114,Spanish,45+
+276,1003,Campus Days,Crime,2011,8.9,99418,176,Korean,45+
+264,1077,Campus Days,Action,2025,6.9,26808,100,English,35-44
+171,1092,Code Breaker,Crime,2019,8.0,10960,143,French,35-44
+1,1062,Love in Winter,Comedy,2021,7.6,17538,174,Japanese,18-24
+64,1063,Ocean Quest,Comedy,2015,7.8,67400,131,French,35-44
+284,1025,City Lights,Drama,2017,7.5,71645,113,Korean,45+
+121,1056,Shadow Hunter,Crime,2015,6.5,20942,175,Korean,35-44
+107,1033,Secret Agent,Horror,2013,6.6,60313,114,French,13-17
+175,1038,Future World,Comedy,2022,6.2,42472,94,,18-24
+204,1006,Code Breaker,Action,2013,5.3,99071,175,English,18-24
+165,1058,The Last Mission,Sci-Fi,2015,8.5,69006,85,Spanish,45+
+120,1044,Beyond the Stars,Adventure,2023,7.1,38844,164,Korean,35-44
+44,1045,Campus Days,Drama,2024,8.4,57542,176,Korean,13-17
+156,1032,Broken Roads,Sci-Fi,2025,8.8,86090,111,Korean,35-44
+207,1045,Digital Age,Drama,2022,7.2,3750,131,Japanese,25-34
+108,1061,Love in Winter,Action,2013,5.7,45217,162,Hindi,35-44
+251,1047,Hidden Truth,Thriller,2017,6.9,91344,176,Japanese,45+
+130,1021,Final Verdict,Crime,2018,6.4,52872,107,English,35-44
+293,1080,Broken Roads,Romance,2025,4.9,3290,174,English,18-24
+20,1085,Beyond the Stars,Horror,2010,6.5,48213,164,English,13-17
+282,1075,The Lost Kingdom,Sci-Fi,2022,7.0,8889,177,English,45+
+285,1036,Final Verdict,Crime,2013,6.4,32225,143,English,25-34
+1,1099,Dream Makers,Horror,2013,6.3,98795,158,French,13-17
+119,1019,Wild Frontier,Thriller,2011,5.7,17559,157,Korean,13-17
+35,1020,Digital Age,Romance,2015,7.3,35518,98,Japanese,18-24
+198,1057,Code Breaker,,2012,9.2,47185,94,French,18-24
+245,1018,Parallel Lives,Horror,2016,8.5,18868,85,Japanese,18-24
+59,1047,Dream Makers,Sci-Fi,2025,7.8,50061,152,Hindi,45+
+161,1049,Love in Winter,Animation,2022,7.8,81199,180,Spanish,35-44
+179,1014,Love in Winter,Romance,2020,7.0,27985,163,Korean,13-17
+206,1015,Dream Makers,Crime,2025,5.1,87521,177,Hindi,35-44
+12,1031,Love in Winter,Thriller,2020,6.7,61182,117,French,35-44
+276,1001,Hidden Truth,Romance,2014,6.0,6995,105,Spanish,18-24
+181,1054,Code Breaker,Action,2013,7.3,50411,161,Hindi,35-44
+242,1003,Beyond the Stars,Animation,2014,8.5,89594,171,Japanese,13-17
+216,1016,Digital Age,Action,2017,9.3,67167,130,Spanish,13-17
+251,1087,The Silent House,Thriller,2012,7.2,71117,152,Japanese,25-34
+299,1057,Campus Days,Sci-Fi,2023,5.3,24032,175,Hindi,45+
+126,1075,Broken Roads,Sci-Fi,2016,7.2,21460,132,French,35-44
+217,1012,Parallel Lives,Thriller,2024,7.2,54947,135,Japanese,45+
+285,1074,Secret Agent,Drama,2023,7.8,90465,138,Spanish,45+
+185,1096,Campus Days,Thriller,2015,7.1,85568,149,Hindi,45+
+39,1016,Broken Roads,Animation,2021,7.2,39031,157,Japanese,45+
+223,1072,Shadow Hunter,Comedy,2025,6.4,55923,171,French,13-17
+184,1076,Beyond the Stars,Sci-Fi,2010,6.8,38132,137,Korean,35-44
+178,1024,Love in Winter,Adventure,2022,7.7,81526,167,French,25-34
+294,1028,Love in Winter,Animation,2016,4.9,18907,92,French,45+
+151,1008,The Silent House,Animation,2023,6.8,11867,122,Korean,25-34
+126,1092,Campus Days,Animation,2022,7.9,8171,155,French,13-17
+234,1036,Broken Roads,Horror,2016,8.9,53513,130,Korean,13-17
+8,1090,City Lights,Animation,2023,6.7,26249,98,Korean,18-24
+129,1008,Broken Roads,Sci-Fi,2025,8.4,15640,100,Japanese,45+
+264,1058,Wild Frontier,Comedy,2024,9.0,70348,170,Japanese,18-24
+157,1060,Hidden Truth,Comedy,2021,6.7,91837,162,Korean,25-34
+5,1050,Dream Makers,Animation,2010,6.5,85535,103,Hindi,35-44
+86,1028,City Lights,Action,2018,6.9,19887,105,Spanish,18-24
+175,1092,Broken Roads,Sci-Fi,2015,7.0,21082,124,Hindi,13-17
+290,1041,Wild Frontier,Sci-Fi,2024,8.3,22706,107,Korean,45+
+193,1100,Campus Days,Romance,2021,6.2,10250,161,Spanish,25-34
+119,1064,The Lost Kingdom,Crime,2011,8.8,86029,179,Japanese,13-17
+218,1027,Future World,Drama,2014,6.2,47036,108,Spanish,35-44
+114,1063,Future World,Drama,2022,5.7,93386,96,Korean,45+
+145,1017,Final Verdict,Action,2020,7.7,8693,147,Japanese,35-44
+26,1073,Midnight Chase,Drama,2013,8.5,17458,123,Spanish,35-44
+136,1033,Beyond the Stars,Romance,2016,7.3,82243,140,,45+
+232,1084,Wild Frontier,Thriller,2017,7.6,37481,172,Hindi,45+
+76,1077,The Last Mission,Drama,2025,9.2,90447,147,Spanish,35-44
+289,1092,Hidden Truth,Sci-Fi,2020,8.5,28174,153,Korean,25-34
+1,1029,Broken Roads,Thriller,2023,7.1,20695,104,English,45+
+147,1013,Parallel Lives,Drama,2024,6.6,44294,174,English,13-17
+287,1046,City Lights,Sci-Fi,2020,8.3,49477,146,English,18-24
+142,1035,Final Verdict,Sci-Fi,2010,8.0,26953,81,Korean,25-34
+53,1006,Beyond the Stars,Animation,2014,7.6,73819,168,English,45+
+69,1082,Wild Frontier,Comedy,2024,6.7,20761,128,Hindi,45+
+90,1069,Campus Days,Action,2012,7.0,50593,149,Korean,25-34
+220,1047,Hidden Truth,Romance,2010,6.9,36595,105,Japanese,18-24
+192,1025,Digital Age,Horror,2021,6.8,13803,151,Korean,35-44
+63,1066,Ocean Quest,Crime,2012,6.4,53180,178,Korean,13-17
+73,1010,Wild Frontier,Drama,2023,7.4,30915,106,Spanish,45+
+161,1056,Love in Winter,Drama,2015,6.4,29665,168,Spanish,18-24
+169,1030,Midnight Chase,Thriller,2023,7.3,63421,97,Spanish,13-17
+89,1005,Ocean Quest,Thriller,2016,4.8,58553,133,French,25-34
+176,1033,Love in Winter,Crime,2025,6.4,88578,80,Hindi,45+
+269,1065,Campus Days,Drama,2017,8.3,33261,140,Korean,35-44
+73,1018,Love in Winter,Adventure,2022,6.1,56091,82,Korean,25-34
+245,1096,Beyond the Stars,Romance,2020,7.8,9816,147,Spanish,45+
+77,1049,Wild Frontier,Drama,2013,6.2,33449,120,Korean,18-24
+159,1011,City Lights,Comedy,2012,8.0,47198,116,Japanese,13-17
+98,1085,Final Verdict,Crime,2014,6.8,232,130,Korean,13-17
+102,1026,Broken Roads,Adventure,2018,6.7,52090,94,English,45+
+132,1063,Parallel Lives,Romance,2022,7.2,69021,87,Japanese,25-34
+102,1089,Future World,Drama,2015,5.6,36638,117,Japanese,35-44
+19,1086,Final Verdict,Horror,2024,8.2,99379,162,Korean,18-24
+82,1059,Midnight Chase,Animation,2018,8.5,7313,135,French,45+
+279,1027,Love in Winter,Comedy,2024,6.7,44323,126,Spanish,18-24
+129,1049,Campus Days,Horror,2015,7.7,91755,169,Hindi,13-17
+89,1077,Secret Agent,Thriller,2011,8.0,68471,89,Hindi,35-44
+213,1033,The Silent House,Thriller,2022,7.0,68374,157,English,18-24
+143,1098,The Lost Kingdom,Drama,2014,5.9,4234,128,Hindi,45+
+65,1099,Future World,Thriller,2021,8.9,91528,120,Hindi,35-44
+76,1001,Code Breaker,Comedy,2020,6.7,39701,162,Spanish,25-34
+199,1021,Campus Days,Romance,2018,6.4,73989,109,Spanish,45+
+143,1055,Wild Frontier,Sci-Fi,2017,8.9,15790,84,French,18-24
+93,1006,Wild Frontier,Action,2016,7.8,2009,174,English,35-44
+224,1092,Shadow Hunter,Crime,2010,7.4,91339,150,Hindi,45+
+291,1081,Future World,Romance,2013,6.0,80132,162,French,35-44
+102,1069,Future World,Sci-Fi,2021,8.0,12162,110,English,35-44
+267,1095,Secret Agent,Adventure,2016,10.0,75486,131,Japanese,35-44
+110,1005,Code Breaker,Comedy,2025,8.1,93337,167,Hindi,18-24
+265,1003,Beyond the Stars,Horror,2020,7.6,34831,177,Hindi,45+
+3,1053,Code Breaker,Sci-Fi,2016,7.9,5253,102,Spanish,13-17
+85,1023,Final Verdict,Comedy,2024,6.7,10581,127,Korean,13-17
+282,1053,The Last Mission,Animation,2015,6.7,99370,119,English,18-24
+117,1037,Parallel Lives,Horror,2017,6.7,66525,85,Hindi,18-24
+221,1074,Final Verdict,Thriller,2020,6.5,63700,117,English,35-44
+154,1074,Wild Frontier,Thriller,2022,6.7,85081,120,French,45+
+153,1083,Digital Age,Horror,2015,6.7,72097,179,French,45+
+12,1017,Campus Days,Adventure,2019,6.8,28305,106,Korean,25-34
+133,1085,Wild Frontier,Adventure,2025,6.8,88987,154,Hindi,25-34
+293,1078,The Lost Kingdom,Adventure,2012,7.4,81642,148,Spanish,13-17
+300,1073,Digital Age,Sci-Fi,2013,7.2,44249,136,Hindi,25-34
+228,1001,Wild Frontier,Crime,2023,7.3,49212,96,English,25-34
+271,1051,Parallel Lives,Sci-Fi,2012,8.8,11040,150,Japanese,13-17
+43,1045,Parallel Lives,Drama,2010,7.2,59110,170,French,13-17
+21,1077,Beyond the Stars,Action,2024,9.5,76894,126,English,25-34
+107,1004,Midnight Chase,Horror,2019,7.5,24585,158,Korean,45+
+117,1062,Broken Roads,Romance,2014,6.6,89399,92,French,25-34
+124,1065,Hidden Truth,Action,2024,8.6,1167,90,Spanish,35-44
+281,1032,Shadow Hunter,Animation,2010,7.0,20707,169,French,35-44
+292,1034,The Silent House,Sci-Fi,2010,4.5,61697,165,Japanese,35-44
+203,1092,Ocean Quest,Sci-Fi,2011,7.1,74654,171,Hindi,18-24
+51,1095,Secret Agent,Comedy,2022,6.8,48621,103,Japanese,35-44
+271,1072,Broken Roads,Action,2013,8.9,15287,172,Japanese,45+
+277,1039,Campus Days,Comedy,2015,6.1,4085,152,Hindi,18-24
+141,1026,Campus Days,Romance,2017,6.7,43152,83,French,18-24
+275,1034,Campus Days,Comedy,2022,8.5,19663,125,Korean,35-44
+290,1054,The Last Mission,Action,2025,7.5,47422,97,Hindi,25-34
+52,1003,Ocean Quest,Horror,2012,6.9,61345,122,Hindi,13-17
+27,1050,Wild Frontier,Animation,2010,6.3,51614,159,Spanish,25-34
+157,1012,Code Breaker,Sci-Fi,2012,7.5,18708,112,French,25-34
+239,1065,Hidden Truth,Romance,2021,7.1,67362,172,Hindi,18-24
+156,1054,Love in Winter,Sci-Fi,2012,6.3,92218,89,Korean,18-24
+291,1005,Broken Roads,Drama,2014,6.3,71427,152,English,18-24
+136,1094,Parallel Lives,Animation,2020,6.2,57325,138,French,45+
+144,1094,The Lost Kingdom,Crime,2021,6.0,74094,110,Spanish,45+
+106,1057,Shadow Hunter,Comedy,2021,8.1,17321,107,Japanese,13-17
+158,1017,Digital Age,Thriller,2013,8.0,48606,139,Hindi,18-24
+146,1047,Final Verdict,Action,2022,8.1,21068,82,Korean,35-44
+2,1023,Hidden Truth,Sci-Fi,2013,7.1,82706,134,French,18-24
+77,1079,Dream Makers,Comedy,2018,6.8,28037,93,Korean,45+
+132,1085,Dream Makers,Romance,2016,6.9,62535,137,Korean,18-24
+90,1014,Shadow Hunter,Sci-Fi,2013,8.2,49608,168,Japanese,45+
+263,1066,Future World,Crime,2012,5.1,41931,94,Spanish,18-24
+108,1075,City Lights,Animation,2015,6.5,43033,81,French,35-44
+74,1051,The Silent House,Animation,2012,6.1,47407,103,Hindi,13-17
+39,1038,Hidden Truth,Sci-Fi,2015,8.6,48440,157,Spanish,35-44
+159,1064,Parallel Lives,Romance,2020,6.6,86438,143,Hindi,45+
+71,1098,Hidden Truth,Animation,2022,5.3,43701,150,English,25-34
+241,1038,Wild Frontier,Animation,2020,7.3,76056,179,Korean,35-44
+298,1050,Digital Age,Crime,2022,6.7,72278,103,English,18-24
+36,1098,Ocean Quest,Action,2022,6.5,85411,106,Korean,13-17
+84,1082,Campus Days,Romance,2021,6.4,28854,116,Japanese,18-24
+263,1030,Ocean Quest,Romance,2018,6.3,43410,173,Spanish,18-24
+172,1079,Midnight Chase,Horror,2015,7.9,69993,170,Hindi,35-44
+173,1091,Midnight Chase,Horror,2021,7.3,86899,118,Japanese,13-17
+47,1051,Hidden Truth,Animation,2013,6.9,48467,142,Hindi,25-34
+141,1063,The Last Mission,,2024,5.9,13301,158,Spanish,18-24
+118,1098,Beyond the Stars,Horror,2014,6.9,2839,105,French,13-17
+277,1052,Love in Winter,Animation,2022,7.4,13331,144,English,25-34
+214,1038,The Last Mission,Adventure,2015,7.4,42595,83,English,18-24
+220,1097,Parallel Lives,Drama,2020,7.3,21268,108,Hindi,13-17
+26,1088,Love in Winter,Drama,2012,6.1,32724,80,Hindi,35-44
+9,1079,Broken Roads,Romance,2017,4.5,10735,129,Hindi,18-24
+271,1030,Ocean Quest,Thriller,2013,9.1,10064,165,Spanish,18-24
+10,1051,Ocean Quest,Crime,2017,5.7,27885,90,French,13-17
+121,1081,Love in Winter,Action,2019,4.9,95146,153,English,18-24
+125,1005,The Silent House,Horror,2019,7.2,82897,138,Japanese,25-34
+170,1029,The Last Mission,Adventure,2025,5.2,84890,141,Korean,18-24
+72,1004,Beyond the Stars,Animation,2012,6.2,77028,160,Spanish,45+
+152,1010,Hidden Truth,Thriller,2019,7.7,12436,115,English,25-34
+208,1056,City Lights,Romance,2016,9.0,77575,135,French,13-17
+49,1017,Ocean Quest,Horror,2020,7.5,27512,169,Spanish,25-34
+154,1074,The Silent House,Thriller,2022,6.6,82312,100,Japanese,45+
+293,1017,City Lights,Horror,2021,7.0,75479,92,English,45+
+68,1084,The Lost Kingdom,Action,2018,5.1,45691,88,Spanish,18-24
+50,1088,The Lost Kingdom,Action,2013,6.6,61850,90,English,18-24
+152,1069,Beyond the Stars,Crime,2017,6.6,90748,154,English,35-44
+19,1034,Code Breaker,Drama,2012,7.3,96234,149,French,25-34
+100,1006,Final Verdict,Comedy,2025,9.2,35554,80,Korean,35-44
+60,1053,Hidden Truth,Comedy,2016,5.0,98637,149,French,45+
+167,1066,Ocean Quest,Horror,2012,6.7,62772,156,English,18-24
+202,1077,Hidden Truth,Crime,2021,5.1,27328,165,Spanish,18-24
+146,1043,The Lost Kingdom,Comedy,2024,6.5,14529,135,Japanese,18-24
+164,1075,Broken Roads,Romance,2024,6.1,84394,110,French,13-17
+242,1023,Broken Roads,Comedy,2016,5.5,67908,165,Korean,45+
+69,1055,City Lights,Sci-Fi,2023,8.1,82986,116,English,18-24
+175,1080,Broken Roads,Animation,2020,7.4,53115,126,Japanese,45+
+49,1095,Wild Frontier,,2019,8.0,88174,170,French,18-24
+108,1075,Code Breaker,Romance,2019,6.5,69036,157,French,25-34
+226,1016,Shadow Hunter,Thriller,2020,7.0,81007,126,French,45+
+161,1008,City Lights,Romance,2020,8.9,57478,148,French,35-44
+119,1004,Ocean Quest,Drama,2015,7.1,37410,137,Japanese,13-17
+149,1004,Campus Days,Thriller,2011,8.0,83783,115,Spanish,35-44
+150,1056,City Lights,Adventure,2020,6.4,68927,111,Korean,45+
+293,1025,Dream Makers,Animation,2012,7.9,35356,177,Korean,18-24
+143,1067,Shadow Hunter,Animation,2025,6.5,76528,143,English,45+
+160,1096,Code Breaker,Animation,2015,5.0,99962,150,Hindi,13-17
+11,1067,City Lights,Animation,2023,7.1,38989,121,Spanish,45+
+138,1027,City Lights,Horror,2013,6.6,51528,127,English,18-24
+78,1093,Broken Roads,Animation,2015,5.3,37307,153,English,35-44
+77,1032,Parallel Lives,Animation,2010,7.3,50355,160,French,25-34
+254,1050,City Lights,Animation,2019,6.1,91631,109,Hindi,35-44
+258,1061,Midnight Chase,Crime,2021,10.0,5509,100,Hindi,18-24
+291,1051,Hidden Truth,Horror,2010,5.5,42538,139,Spanish,18-24
+263,1019,Ocean Quest,Action,2012,5.8,95459,92,Hindi,13-17
+85,1021,The Lost Kingdom,Romance,2017,8.1,7969,80,English,45+
+146,1005,Midnight Chase,Romance,2017,7.0,56962,144,Hindi,45+
+42,1082,Midnight Chase,Thriller,2020,8.0,88037,112,Hindi,35-44
+125,1092,The Last Mission,Crime,2013,7.5,26058,117,Korean,25-34
+167,1042,Campus Days,Sci-Fi,2015,6.5,76402,104,English,25-34
+241,1061,The Silent House,Romance,2024,5.6,19868,105,Japanese,13-17
+280,1022,Broken Roads,Comedy,2017,8.3,96430,156,Hindi,18-24
+188,1021,Wild Frontier,,2016,5.7,26245,138,Hindi,13-17
+19,1070,Wild Frontier,Animation,2020,,75722,171,French,45+
+68,1001,Campus Days,Animation,2016,8.1,26542,112,Hindi,18-24
+218,1005,Dream Makers,Horror,2022,7.0,82048,180,Hindi,13-17
+102,1012,Dream Makers,Sci-Fi,2013,6.8,25696,120,Korean,35-44
+42,1090,Beyond the Stars,Comedy,2018,6.0,75891,109,English,45+
+288,1046,Ocean Quest,Horror,2021,7.6,42506,136,Spanish,25-34
+167,1034,Secret Agent,Thriller,2019,3.7,40624,128,English,13-17
+109,1049,Secret Agent,Sci-Fi,2015,7.9,23432,127,French,45+
+36,1078,Digital Age,Crime,2023,7.2,15864,151,English,45+
+232,1090,The Lost Kingdom,Animation,2021,6.9,27663,128,Hindi,25-34
+229,1045,Digital Age,Animation,2020,7.4,87775,126,French,25-34
+164,1027,The Lost Kingdom,Drama,2012,5.6,36470,135,English,25-34
+73,1073,Secret Agent,Horror,2014,4.4,5162,144,French,13-17
+136,1026,Parallel Lives,Action,2014,7.6,44745,91,Spanish,25-34
+70,1047,Beyond the Stars,Action,2023,8.5,7344,148,English,35-44
+196,1086,Broken Roads,Horror,2014,5.2,6472,167,Japanese,45+
+269,1056,Ocean Quest,Crime,2017,5.9,85601,85,Hindi,25-34
+49,1094,Digital Age,Adventure,2025,7.9,64571,168,French,45+
+130,1063,Future World,Horror,2018,7.5,17056,144,Japanese,18-24
+5,1048,The Lost Kingdom,Crime,2022,10.0,40573,104,Japanese,18-24
+27,1061,City Lights,Thriller,2018,8.3,13994,80,Korean,25-34
+160,1081,Digital Age,Animation,2022,8.0,99018,111,French,45+
+149,1026,City Lights,Comedy,2015,6.3,69686,82,Japanese,18-24
+264,1036,Final Verdict,Adventure,2015,7.7,16809,128,Korean,25-34
+230,1001,The Silent House,Sci-Fi,2018,8.7,81358,98,Japanese,45+
+200,1008,Future World,Adventure,2013,6.9,15310,139,Hindi,25-34
+50,1099,Campus Days,Comedy,2015,7.0,49610,108,Spanish,45+
+67,1052,Parallel Lives,Drama,2013,7.3,38774,129,Korean,18-24
+300,1079,Campus Days,Animation,2020,6.4,17833,81,Spanish,25-34
+58,1047,Digital Age,Action,2025,7.4,20180,152,French,18-24
+259,1056,Code Breaker,Crime,2010,7.4,53512,135,Hindi,25-34
+130,1086,Campus Days,Horror,2016,8.7,59071,96,Korean,13-17
+215,1014,Digital Age,Horror,2023,6.9,39809,139,French,18-24
+172,1090,Ocean Quest,Action,2019,7.8,59946,115,Japanese,18-24
+258,1028,The Silent House,Adventure,2020,6.9,65580,140,English,35-44
+102,1087,Code Breaker,Animation,2021,7.8,53060,96,French,18-24
+209,1078,Love in Winter,Romance,2015,6.8,41252,128,Spanish,45+
+291,1088,Future World,Crime,2018,7.7,27350,155,Hindi,25-34
+286,1002,Final Verdict,Thriller,2016,7.9,85865,139,Hindi,13-17
+116,1026,The Last Mission,Comedy,2022,5.9,48237,99,French,45+
+264,1014,Final Verdict,Adventure,2016,8.3,82111,129,Japanese,45+
+150,1059,Wild Frontier,Sci-Fi,2011,6.9,46512,82,English,45+
+300,1056,The Silent House,Drama,2021,6.6,43976,122,Spanish,45+
+36,1007,City Lights,Horror,2020,6.3,94647,136,French,13-17
+287,1003,Future World,Adventure,2024,7.4,73764,129,French,35-44
+208,1023,Beyond the Stars,Drama,2018,7.1,50327,147,Hindi,18-24
+106,1018,Beyond the Stars,Comedy,2019,7.5,32550,160,Spanish,45+
+158,1038,Digital Age,Horror,2018,7.5,84533,129,English,18-24
+121,1099,Parallel Lives,Horror,2015,7.8,73804,116,Hindi,18-24
+55,1015,Wild Frontier,Romance,2022,10.0,6961,125,French,45+
+12,1064,Broken Roads,Adventure,2012,7.1,62014,121,Hindi,35-44
+145,1089,Wild Frontier,Animation,2010,6.3,63988,94,Hindi,18-24
+136,1028,Campus Days,Action,2013,4.9,79386,112,Korean,25-34
+3,1074,Code Breaker,Action,2023,5.8,61393,159,Hindi,18-24
+144,1039,Shadow Hunter,Thriller,2023,8.5,82624,90,Japanese,45+
+30,1057,Future World,Sci-Fi,2012,7.9,68615,99,Hindi,13-17
+237,1017,Wild Frontier,Drama,2023,5.6,23624,103,Japanese,18-24
+279,1086,Love in Winter,Adventure,2021,9.8,7165,143,Spanish,35-44
+115,1090,Campus Days,Crime,2010,7.5,37784,159,Hindi,25-34
+104,1044,The Last Mission,Sci-Fi,2012,7.6,88820,173,English,25-34
+118,1025,Dream Makers,Romance,2025,9.6,33465,177,Japanese,13-17
+5,1017,Parallel Lives,Horror,2023,9.0,58976,144,Japanese,13-17
+248,1013,Final Verdict,Animation,2023,8.0,23804,167,French,18-24
+121,1084,Broken Roads,Adventure,2013,8.0,57957,167,Spanish,45+
+286,1025,Love in Winter,Sci-Fi,2022,8.1,5722,152,Hindi,35-44
+149,1068,The Last Mission,Sci-Fi,2022,6.8,83897,165,English,25-34
+84,1010,Future World,Animation,2024,7.4,94055,155,French,13-17
+231,1067,Final Verdict,Thriller,2023,7.7,91241,96,Spanish,35-44
+288,1018,Campus Days,Drama,2017,7.0,94807,168,Japanese,45+
+161,1100,Beyond the Stars,Drama,2018,6.0,87800,171,English,25-34
+272,1086,Parallel Lives,Sci-Fi,2012,6.8,79432,140,Hindi,25-34
+38,1034,The Silent House,Comedy,2015,6.0,96956,94,Korean,45+
+226,1008,Secret Agent,Sci-Fi,2019,7.2,66301,173,Korean,25-34
+142,1040,Wild Frontier,Sci-Fi,2020,5.1,32794,130,Spanish,45+
+292,1083,Wild Frontier,Animation,2024,7.5,89866,106,English,25-34
+151,1042,Future World,Horror,2014,5.3,23095,165,French,18-24
+114,1041,Love in Winter,Animation,2025,6.7,92420,153,English,45+
+237,1006,Dream Makers,Adventure,2015,7.7,80241,140,Japanese,35-44
+66,1052,Campus Days,Sci-Fi,2013,8.0,83099,137,Korean,18-24
+258,1026,Love in Winter,Drama,2019,7.8,8519,110,Spanish,35-44
+249,1064,Shadow Hunter,,2015,7.5,48052,170,Hindi,25-34
+180,1098,Midnight Chase,Drama,2025,5.9,33937,91,English,35-44
+190,1059,The Silent House,Action,2016,8.2,70899,125,Korean,18-24
+154,1056,Hidden Truth,Thriller,2018,5.9,48977,110,French,45+
+196,1059,Parallel Lives,Romance,2019,8.3,45787,111,Spanish,13-17
+262,1070,Shadow Hunter,Adventure,2016,7.8,99767,111,Hindi,35-44
+143,1033,Digital Age,Adventure,2015,8.6,37376,178,English,13-17
+101,1053,The Lost Kingdom,Thriller,2010,7.1,34623,132,French,35-44
+244,1022,Hidden Truth,Crime,2011,6.2,66155,140,Hindi,35-44
+12,1021,Future World,Romance,2010,5.7,54715,125,Japanese,45+
+239,1070,The Silent House,Horror,2018,5.8,96742,164,Korean,25-34
+49,1070,Midnight Chase,Sci-Fi,2019,5.3,10614,153,Japanese,18-24
+42,1004,The Silent House,Romance,2019,8.1,47556,159,Korean,18-24
+166,1094,Broken Roads,Crime,2018,8.3,7333,86,French,18-24
+82,1075,Digital Age,Comedy,2016,7.7,1202,83,Japanese,25-34
+291,1062,Love in Winter,Action,2025,7.1,66233,170,Korean,13-17
+158,1062,Broken Roads,Romance,2022,9.4,46815,131,Spanish,18-24
+216,1094,Beyond the Stars,Romance,2011,7.0,85293,168,French,13-17
+158,1095,City Lights,Action,2015,7.3,6356,110,Korean,25-34
+134,1024,Shadow Hunter,Sci-Fi,2020,7.0,64900,154,English,25-34
+67,1055,The Silent House,Romance,2013,6.7,95037,163,Korean,45+
+7,1009,The Silent House,Action,2010,7.8,41648,115,Japanese,18-24
+14,1003,Code Breaker,Action,2010,6.4,72190,133,Spanish,45+
+73,1031,Final Verdict,Action,2021,6.3,78300,133,Hindi,18-24
+163,1040,The Last Mission,Animation,2014,7.8,42467,96,Hindi,25-34
+66,1036,Beyond the Stars,Crime,2021,6.6,90022,154,Korean,25-34
+130,1024,Broken Roads,Animation,2011,7.2,70482,109,Hindi,35-44
+206,1095,Broken Roads,Comedy,2013,6.7,26305,178,Korean,35-44
+276,1006,Broken Roads,Horror,2010,7.1,25670,101,Spanish,25-34
+256,1066,City Lights,Animation,2013,6.4,30355,122,Hindi,25-34
+266,1084,The Silent House,Animation,2020,6.4,21282,106,Japanese,13-17
+25,1092,Ocean Quest,Crime,2015,6.2,39473,116,Japanese,13-17
+281,1075,Midnight Chase,Horror,2019,8.0,43119,125,English,45+
+253,1004,Beyond the Stars,Thriller,2013,7.3,62719,114,Korean,35-44
+289,1079,Digital Age,Action,2010,8.1,16143,83,Hindi,35-44
+164,1006,Hidden Truth,Adventure,2016,8.2,45632,159,Japanese,25-34
+95,1094,Code Breaker,Horror,2023,6.6,66036,159,Spanish,25-34
+270,1051,Future World,Comedy,2011,8.1,19339,164,Spanish,45+
+110,1062,Future World,Sci-Fi,2018,7.1,10516,105,English,35-44
+238,1057,Ocean Quest,Comedy,2022,6.9,3512,179,Spanish,13-17
+25,1066,The Last Mission,Action,2012,8.5,82076,98,Spanish,18-24
+141,1079,Beyond the Stars,Horror,2017,7.7,24506,160,Hindi,45+
+117,1075,Final Verdict,Comedy,2022,6.7,1975,124,Korean,18-24
+25,1008,Hidden Truth,Comedy,2017,7.6,37166,105,French,13-17
+79,1026,Broken Roads,Thriller,2012,5.7,5852,101,Spanish,13-17
+68,1051,Campus Days,Thriller,2013,7.4,86853,137,Spanish,18-24
+173,1045,Dream Makers,Horror,2011,5.5,78125,142,French,45+
+12,1044,Future World,Action,2013,6.0,1453,107,Spanish,18-24
+288,1005,Parallel Lives,Animation,2020,7.7,27086,144,Hindi,45+
+128,1070,Dream Makers,Drama,2020,4.2,87007,123,Hindi,45+
+96,1026,The Lost Kingdom,Romance,2020,9.1,14791,179,French,25-34
+92,1068,Broken Roads,Adventure,2025,8.0,69947,122,Japanese,35-44
+141,1019,Love in Winter,Romance,2023,5.1,48175,116,Spanish,35-44
+31,1084,Code Breaker,Crime,2018,9.7,10894,145,Japanese,13-17
+20,1097,City Lights,Thriller,2011,10.0,68570,96,Spanish,25-34
+146,1020,Campus Days,Horror,2021,6.9,16506,119,Korean,35-44
+160,1012,Beyond the Stars,Romance,2021,6.1,76030,117,Spanish,45+
+43,1047,The Lost Kingdom,Action,2022,9.0,26972,164,Hindi,45+
+254,1001,Dream Makers,Adventure,2025,6.7,41808,140,English,18-24
+130,1090,Hidden Truth,Romance,2012,7.3,20900,88,English,18-24
+60,1014,Hidden Truth,Adventure,2024,8.4,43497,156,English,45+
+151,1064,Parallel Lives,Sci-Fi,2020,6.9,38009,154,,45+
+287,1038,Code Breaker,Action,2020,6.8,21452,140,Japanese,18-24
+5,1037,Campus Days,Drama,2024,5.7,93948,159,Japanese,35-44
+266,1011,Future World,Comedy,2013,6.4,15538,95,Spanish,13-17
+130,1100,Secret Agent,Adventure,2014,6.8,89021,81,Japanese,18-24
+267,1077,Final Verdict,Action,2010,5.7,45099,151,Spanish,35-44
+178,1003,Beyond the Stars,Adventure,2016,5.8,18582,122,Korean,35-44
+253,1033,Code Breaker,Adventure,2025,7.1,32571,121,Spanish,35-44
+56,1006,The Last Mission,Animation,2023,5.1,47379,156,English,25-34
+83,1050,Secret Agent,Animation,2019,6.1,54313,136,French,25-34
+99,1010,Shadow Hunter,Action,2025,9.2,13126,160,French,35-44
+149,1005,Parallel Lives,Animation,2016,6.7,85284,167,Hindi,45+
+156,1023,Campus Days,Crime,2018,6.6,5535,146,Hindi,25-34
+190,1010,Ocean Quest,Drama,2013,6.7,8593,109,Spanish,18-24
+263,1044,Future World,Horror,2023,6.7,72327,92,French,25-34
+80,1002,Dream Makers,Action,2023,7.7,59421,98,English,45+
+252,1013,Parallel Lives,Action,2015,7.7,2863,86,Japanese,13-17
+97,1040,The Silent House,Crime,2020,6.7,20489,88,English,25-34
+260,1002,City Lights,Thriller,2011,6.9,31598,162,English,35-44
+260,1084,Love in Winter,Thriller,2021,8.5,63855,133,Spanish,35-44
+103,1065,Code Breaker,Animation,2021,5.4,35925,165,Spanish,35-44
+40,1063,Midnight Chase,Horror,2023,7.0,17034,161,Korean,13-17
+273,1073,The Last Mission,Animation,2013,7.2,5674,140,English,45+
+101,1017,Midnight Chase,Sci-Fi,2011,6.2,38279,166,English,18-24
+221,1009,Secret Agent,Sci-Fi,2019,7.0,1687,81,Spanish,45+
+124,1075,Future World,Comedy,2014,6.1,42882,129,Spanish,13-17
+231,1015,Shadow Hunter,Sci-Fi,2024,7.8,54512,154,Korean,35-44
+178,1024,Shadow Hunter,Thriller,2016,5.6,60661,110,Korean,45+
+63,1038,Final Verdict,Drama,2022,8.3,77324,112,Hindi,18-24
+116,1035,Beyond the Stars,Sci-Fi,2010,7.0,4509,157,French,35-44
+191,1094,Broken Roads,Animation,2024,6.6,71419,159,English,18-24
+62,1095,Midnight Chase,Adventure,2019,6.0,99116,90,English,25-34
+256,1049,Beyond the Stars,Action,2019,8.2,26851,112,Korean,18-24
+7,1069,Parallel Lives,Drama,2016,6.4,38274,86,Korean,35-44
+155,1062,Wild Frontier,Drama,2019,5.8,56672,110,Hindi,25-34
+92,1060,The Silent House,Animation,2022,8.3,61516,127,French,35-44
+14,1050,Final Verdict,Action,2015,6.1,12141,126,Hindi,35-44
+229,1078,Ocean Quest,Thriller,2015,7.0,23327,157,French,25-34
+86,1075,The Last Mission,Drama,2021,8.0,35301,171,Japanese,18-24
+133,1009,Ocean Quest,Comedy,2017,7.3,36169,132,English,13-17
+183,1034,Broken Roads,Animation,2017,9.0,82290,159,Hindi,13-17
+62,1076,Beyond the Stars,Drama,2015,6.2,26470,98,Korean,13-17
+219,1099,Ocean Quest,Horror,2012,6.9,95118,160,Hindi,13-17
+246,1035,Hidden Truth,Action,2014,7.0,11686,169,Japanese,45+
+230,1001,The Silent House,Sci-Fi,2011,7.8,50331,85,Hindi,13-17
+79,1040,City Lights,Drama,2024,8.5,5422,128,English,25-34
+149,1064,City Lights,Animation,2023,7.2,65394,152,Japanese,13-17
+138,1022,Broken Roads,Sci-Fi,2014,6.9,79568,129,Korean,35-44
+65,1060,Parallel Lives,Comedy,2023,5.5,29399,160,Korean,13-17
+13,1064,Future World,Sci-Fi,2018,7.2,90815,174,Spanish,18-24
+213,1093,Beyond the Stars,Horror,2019,6.4,70893,91,Japanese,25-34
+242,1072,Ocean Quest,Thriller,2010,7.8,46601,102,Spanish,25-34
+213,1011,The Silent House,Drama,2019,6.6,57234,133,Spanish,45+
+181,1014,Love in Winter,Romance,2014,6.8,9877,148,English,35-44
+173,1060,Secret Agent,Romance,2021,5.5,11349,179,Hindi,25-34
+160,1030,Digital Age,Sci-Fi,2015,5.1,21490,138,Korean,18-24
+164,1035,Final Verdict,Crime,2023,9.1,20469,115,Korean,13-17
+188,1085,Parallel Lives,Action,2020,7.2,12981,82,Hindi,25-34
+191,1037,The Silent House,Romance,2016,7.5,9687,137,Korean,18-24
+256,1005,Campus Days,Crime,2018,6.1,93900,167,Hindi,13-17
+183,1083,Future World,Romance,2015,8.1,74427,134,Japanese,45+
+117,1078,Midnight Chase,Crime,2014,7.9,88011,136,English,25-34
+282,1026,Dream Makers,Action,2021,6.2,88247,96,English,25-34
+196,1062,Dream Makers,Adventure,2016,5.9,7933,118,English,18-24
+34,1004,Broken Roads,Romance,2022,6.3,47113,169,Hindi,35-44
+52,1089,Wild Frontier,Horror,2010,7.1,63720,147,Hindi,45+
+112,1042,Final Verdict,Drama,2020,7.3,15854,134,French,35-44
+252,1089,Broken Roads,Crime,2023,7.1,78213,124,Korean,25-34
+82,1018,Ocean Quest,Drama,2014,8.5,96731,155,Korean,35-44
+232,1040,Ocean Quest,Animation,2024,6.3,86884,80,French,13-17
+227,1072,Beyond the Stars,Animation,2011,5.9,35382,100,French,45+
+233,1039,Parallel Lives,Action,2013,7.1,36837,162,English,35-44
+221,1014,Final Verdict,Crime,2016,5.2,97527,100,French,13-17
+42,1032,Final Verdict,Comedy,2014,7.9,24224,131,Hindi,18-24
+21,1051,The Last Mission,Animation,2021,7.2,70202,161,Spanish,35-44
+42,1038,Campus Days,Action,2015,6.7,2296,122,Hindi,45+
+113,1097,Parallel Lives,Animation,2011,,61627,131,French,13-17
+105,1023,Secret Agent,Animation,2012,8.1,96751,146,Korean,35-44
+192,1063,Code Breaker,Comedy,2016,8.1,85495,123,Hindi,18-24
+17,1015,Parallel Lives,Romance,2020,6.8,11445,111,Korean,35-44
+120,1097,The Silent House,Sci-Fi,2011,7.8,34177,89,Hindi,13-17
+129,1025,The Lost Kingdom,Adventure,2021,8.0,66500,143,Korean,35-44
+130,1017,Digital Age,Animation,2015,7.5,12155,158,Japanese,45+
+60,1097,Campus Days,Animation,2014,6.9,85383,148,Hindi,25-34
+48,1066,Digital Age,Horror,2019,7.5,44584,147,Korean,13-17
+29,1078,Love in Winter,Adventure,2010,6.0,77614,107,Spanish,13-17
+97,1053,Secret Agent,Comedy,2021,7.2,90235,132,English,13-17
+10,1051,Secret Agent,Drama,2020,6.8,35871,130,Hindi,13-17
+242,1039,The Silent House,Crime,2024,6.7,57754,132,Spanish,35-44
+232,1051,Final Verdict,Animation,2019,5.2,46640,83,English,45+
+277,1070,The Last Mission,Sci-Fi,2020,6.0,83251,158,Hindi,18-24
+284,1006,Digital Age,Crime,2013,6.6,29477,96,Spanish,45+
+203,1067,Code Breaker,Adventure,2020,8.1,95667,146,Spanish,13-17
+247,1007,City Lights,Crime,2011,7.4,49673,153,Japanese,35-44
+290,1051,Parallel Lives,Romance,2013,8.1,42833,126,Spanish,35-44
+264,1072,The Lost Kingdom,Animation,2010,8.5,11860,135,Japanese,13-17
+214,1042,Love in Winter,Crime,2011,7.5,99350,102,French,35-44
+200,1064,Code Breaker,Drama,2022,7.3,25862,97,Korean,13-17
+79,1015,Code Breaker,Drama,2017,6.0,51086,80,English,45+
+173,1029,Digital Age,Animation,2015,9.3,34432,114,Korean,25-34
+69,1033,The Lost Kingdom,Thriller,2011,5.5,40200,143,Korean,35-44
+87,1094,Dream Makers,Drama,2021,7.2,5044,137,Japanese,13-17
+101,1027,The Lost Kingdom,Crime,2024,8.0,48925,174,Korean,13-17
+8,1036,Broken Roads,Action,2015,8.0,13977,138,Spanish,35-44
+200,1029,Hidden Truth,Drama,2019,5.8,30090,80,Japanese,18-24
+87,1038,Code Breaker,Adventure,2018,6.6,99712,82,Korean,13-17
+43,1057,Ocean Quest,Thriller,2016,6.2,55383,146,Japanese,35-44
+109,1097,Future World,Crime,2018,4.9,3358,116,French,13-17
+152,1027,Broken Roads,,2014,7.2,31729,162,Japanese,18-24
+17,1055,Final Verdict,Horror,2016,6.3,37679,108,Hindi,25-34
+133,1033,Future World,Comedy,2020,,23058,168,Spanish,18-24
+148,1068,The Last Mission,Romance,2025,7.8,39565,112,English,45+
+277,1086,Campus Days,Horror,2024,7.1,85953,179,Hindi,35-44
+232,1066,Shadow Hunter,Romance,2023,6.6,15875,140,Hindi,18-24
+228,1010,Final Verdict,Horror,2016,7.2,76675,172,Hindi,25-34
+139,1005,Broken Roads,Horror,2021,6.8,94733,169,Korean,13-17
+211,1074,Digital Age,Action,2025,7.2,34307,83,Japanese,35-44
+28,1097,Final Verdict,Sci-Fi,2021,9.2,22653,93,Japanese,18-24
+51,1038,Future World,Adventure,2012,5.9,53732,170,Korean,25-34
+261,1013,Code Breaker,Comedy,2016,6.9,155,112,Spanish,18-24
+261,1031,The Silent House,Drama,2010,7.9,88797,101,Korean,45+
+8,1047,Shadow Hunter,Crime,2018,6.7,32973,127,Korean,35-44
+138,1100,Beyond the Stars,Thriller,2019,8.8,80820,82,Korean,13-17
+38,1088,Hidden Truth,Adventure,2022,7.8,66305,166,Spanish,25-34
+111,1052,Shadow Hunter,Romance,2015,6.3,78299,164,Spanish,18-24
+220,1056,Future World,Action,2025,7.3,25418,102,French,35-44
+223,1015,Final Verdict,Romance,2014,,33834,147,French,18-24
+136,1029,Love in Winter,Sci-Fi,2016,6.2,82327,100,French,35-44
+256,1008,Digital Age,Thriller,2014,6.9,18622,180,French,45+
+49,1005,Wild Frontier,Action,2019,8.5,11756,122,Japanese,18-24

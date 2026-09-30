@@ -1,0 +1,29 @@
+1. Import Libraries
+       
+2. Load Dataset
+       
+3. Understand Dataset
+       
+4. Data Cleaning
+       
+5. Feature Selection
+       
+6. Feature Preprocessing
+       
+7. Convert Features into Numerical Form
+       
+8. Create Feature Matrix
+       
+9. Calculate Cosine Similarity
+       
+10. Build Recommendation Function
+       
+11. Test Recommendations
+       
+12. Save Model/Data
+       
+13. Create Streamlit App
+       
+14. Run Locally
+       
+15. Deploy on Streamlit Cloud
